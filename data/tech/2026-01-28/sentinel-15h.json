@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "scanned_at": "2026-01-28T15:14:25.050Z",
+    "total_items": 21,
+    "trend_summary": {
+      "TALENT_GROWTH": 3,
+      "VIRAL_UNCATEGORIZED": 17,
+      "CODE_LEVERAGE": 1,
+      "KNOWLEDGE_BASE": 2
+    }
+  },
+  "items": [
+    {
+      "name": "forrestchang/andrej-karpathy-skills",
+      "desc": null,
+      "lang": null,
+      "stars": 1421,
+      "tags": [
+        "TALENT_GROWTH"
+      ],
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+    },
+    {
+      "name": "deepseek-ai/DeepSeek-OCR-2",
+      "desc": "Visual Causal Flow",
+      "lang": "Python",
+      "stars": 1192,
+      "tags": [
+        "VIRAL_UNCATEGORIZED"
+      ],
+      "url": "https://github.com/deepseek-ai/DeepSeek-OCR-2"
+    },
+    {
+      "name": "antfu/skills",
+      "desc": "Anthony Fu's curated collection of agent skills.",
+      "lang": "TypeScript",
+      "stars": 874,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "url": "https://github.com/antfu/skills"
+    },
+    {
+      "name": "xianyu110/clawbot",
+      "desc": "Clawdbot完整配置指南：从安装到Claude Code中转",
+      "lang": null,
+      "stars": 236,
+      "tags": [
+        "VIRAL_UNCATEGORIZED"
+      ],
+      "url": "https://github.com/xianyu110/clawbot"
+    },
+    {
+      "name": "zarazhangrui/frontend-slides",
+      "desc": "Create beautiful slides on the web using Claude's frontend skills",
+      "lang": null,
+      "stars": 149,
+      "tags": [
+        "TALENT_GROWTH"
+      ],
+      "url": "https://github.com/zarazhangrui/frontend-slides"
+    },
+    {
+      "name": "ecto/vcad",
+      "desc": "Parametric CAD in Rust — CSG modeling with multi-format export",
+      "lang": "Rust",
+      "stars": 122,
+      "tags": [
+        "VIRAL_UNCATEGORIZED"
+      ],
+      "url": "https://github.com/ecto/vcad"
+    },
+    {
+      "name": "dnnyngyen/kimi-k2.5-prompts-tools",
+      "desc": "Extracted artifacts from Kimi K2.5's inference-time behavior, tool schemas, and context/memory mechanisms. For AI alignment research, prompt engineering education, and studies in agentic architecture..",
+      "lang": null,
+      "stars": 93,
+      "tags": [
+        "VIRAL_UNCATEGORIZED"
+      ],
+      "url": "https://github.com/dnnyngyen/kimi-k2.5-prompts-tools"
+    },
+    {
+      "name": "asimovinc/asimov-v0",
+      "desc": "v0 of Asimov, an open-source humanoid robot",
+      "lang": null,
+      "stars": 92,
+      "tags": [
+        "VIRAL_UNCATEGORIZED"
+      ],
+      "url": "https://github.com/asimovinc/asimov-v0"
+    },
+    {
+      "name": "MLT-OSS/FirstData",
+      "desc": "The World's Most Comprehensive, Authoritative, and Structured Open Source Data Source Knowledge Base",
+      "lang": null,
+      "stars": 83,
+      "tags": [
+        "VIRAL_UNCATEGORIZED"
+      ],
+      "url": "https://github.com/MLT-OSS/FirstData"
+    },
+    {
+      "name": "mrdoob/three-quake",
+      "desc": "A WIP port of Quake (1996) to Three.js.",
+      "lang": "JavaScript",
+      "stars": 75,
+      "tags": [
+        "VIRAL_UNCATEGORIZED"
+      ],
+      "url": "https://github.com/mrdoob/three-quake"
+    },
+    {
+      "name": "h9zdev/WireTapper",
+      "desc": "WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intelligence 📡",
+      "lang": "HTML",
+      "stars": 74,
+      "tags": [
+        "VIRAL_UNCATEGORIZED"
+      ],
+      "url": "https://github.com/h9zdev/WireTapper"
+    },
+    {
+      "name": "levineam/qmd-skill",
+      "desc": null,
+      "lang": null,
+      "stars": 72,
+      "tags": [
+        "VIRAL_UNCATEGORIZED"
+      ],
+      "url": "https://github.com/levineam/qmd-skill"
+    },
+    {
+      "name": "morisseausamer/BIGMOUSTER",
+      "desc": "Big mouser ip stresser made by https://cnc-stress.com good for testing ip booter 2026",
+      "lang": "Python",
+      "stars": 68,
+      "tags": [
+        "VIRAL_UNCATEGORIZED"
+      ],
+      "url": "https://github.com/morisseausamer/BIGMOUSTER"
+    },
+    {
+      "name": "antirez/whisperbot",
+      "desc": "Telegram bot that transcribes audio messages via whisper.cpp",
+      "lang": "C",
+      "stars": 65,
+      "tags": [
+        "VIRAL_UNCATEGORIZED"
+      ],
+      "url": "https://github.com/antirez/whisperbot"
+    },
+    {
+      "name": "BquantFinance/licitaciones-espana",
+      "desc": null,
+      "lang": "Python",
+      "stars": 65,
+      "tags": [
+        "VIRAL_UNCATEGORIZED"
+      ],
+      "url": "https://github.com/BquantFinance/licitaciones-espana"
+    },
+    {
+      "name": "arcee-ai/trinity-large-tech-report",
+      "desc": null,
+      "lang": null,
+      "stars": 58,
+      "tags": [
+        "VIRAL_UNCATEGORIZED"
+      ],
+      "url": "https://github.com/arcee-ai/trinity-large-tech-report"
+    },
+    {
+      "name": "PrasannaKrishna0307/offline-rag-system",
+      "desc": null,
+      "lang": "TypeScript",
+      "stars": 57,
+      "tags": [
+        "VIRAL_UNCATEGORIZED"
+      ],
+      "url": "https://github.com/PrasannaKrishna0307/offline-rag-system"
+    },
+    {
+      "name": "Best2Two/SQL-FlappyBird",
+      "desc": "A Flappy Bird game implemented entirely in SQL Server, running at 30 or 60 frames per second.",
+      "lang": "TSQL",
+      "stars": 53,
+      "tags": [
+        "VIRAL_UNCATEGORIZED"
+      ],
+      "url": "https://github.com/Best2Two/SQL-FlappyBird"
+    },
+    {
+      "name": "CodeXTF2/OpenMalleableC2",
+      "desc": "Open Source Implementation of Cobalt Strike's Malleable C2",
+      "lang": "C",
+      "stars": 52,
+      "tags": [
+        "VIRAL_UNCATEGORIZED"
+      ],
+      "url": "https://github.com/CodeXTF2/OpenMalleableC2"
+    },
+    {
+      "name": "johunsang/pi-browser",
+      "desc": "다중 AI 모델을 활용한 브라우저 자동화 CLI (Google Gemini, OpenAI, Anthropic, Ollama 지원)",
+      "lang": "JavaScript",
+      "stars": 51,
+      "tags": [
+        "VIRAL_UNCATEGORIZED"
+      ],
+      "url": "https://github.com/johunsang/pi-browser"
+    },
+    {
+      "name": "cporter202/video-scraping-apis",
+      "desc": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms.",
+      "lang": "JavaScript",
+      "stars": 51,
+      "tags": [
+        "KNOWLEDGE_BASE"
+      ],
+      "url": "https://github.com/cporter202/video-scraping-apis"
+    }
+  ]
+}
