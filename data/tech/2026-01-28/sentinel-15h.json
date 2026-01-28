@@ -1,226 +1,119 @@
-{
-  "meta": {
-    "scanned_at": "2026-01-28T15:14:25.050Z",
-    "total_items": 21,
-    "trend_summary": {
-      "TALENT_GROWTH": 3,
-      "VIRAL_UNCATEGORIZED": 17,
-      "CODE_LEVERAGE": 1,
-      "KNOWLEDGE_BASE": 2
+const { Octokit } = require("@octokit/rest");
+
+const CONFIG = {
+    owner: process.env.REPO_OWNER,
+    repo: process.env.REPO_NAME,
+    token: process.env.GITHUB_TOKEN
+};
+
+const octokit = new Octokit({ auth: CONFIG.token });
+
+// --- 🔴 1. 核心保留区 (只有命中这些才会存详情) ---
+const KEEP_STRATEGIES = {
+    ANDREESSEN: (text, repo) => (text.match(/agi|infra|llm|cuda|compiler|quantization|tensor|gpu/i)) ? 'TECH_ACCELERATOR' : null,
+    TORVALDS: (text, repo) => {
+        const isHardcore = ['Rust', 'C', 'C++', 'Zig'].includes(repo.language);
+        return (isHardcore && text.match(/kernel|driver|runtime|engine|embedded|performance/i)) ? 'CORE_PRAGMATISM' : null;
+    },
+    NAVAL: (text, repo) => (text.match(/protocol|sdk|api-first|autonomous|agent|permissionless|defi/i) && repo.forks > 20) ? 'CODE_LEVERAGE' : null,
+    GRAHAM: (text, repo) => (text.match(/reimagining|alternative to|solving the problem of|new way|vs code/i)) ? 'PARADIGM_SHIFT' : null
+};
+
+// --- 🔵 2. 趋势统计区 (只计数，不存详情) ---
+// 这些标签只会出现在顶部的 trend_summary 里，告诉你现在的“主流”是什么
+const STAT_ONLY_STRATEGIES = {
+    SKILLS: (text) => (text.match(/skills|roadmap|path|learning|guide|101|tutorial/i)) ? 'TALENT_GROWTH' : null,
+    INTERVIEW: (text) => (text.match(/interview|questions|leetcode|offer/i)) ? 'CAREER_MOVES' : null,
+    RESOURCE: (text) => (text.match(/awesome|collection|list|curated|resources|template|dataset/i)) ? 'KNOWLEDGE_BASE' : null
+};
+
+async function run() {
+    console.log("🚀 Sentinel [净网版] 启动...");
+    try {
+        const yesterday = new Date(Date.now() - 24 * 60 * 60 * 1000).toISOString().split('T')[0];
+        const query = `stars:>50 created:>=${yesterday}`;
+        console.log(`📡 扫描指令: ${query}`);
+
+        const { data } = await octokit.search.repos({
+            q: query, sort: 'stars', order: 'desc', per_page: 50
+        });
+
+        // 📊 统计面板
+        const stats = {}; 
+        // 📦 最终入库的精英项目
+        const eliteItems = [];
+
+        data.items.forEach(repo => {
+            const text = (repo.name + " " + (repo.description || "")).toLowerCase();
+            let isKeeper = false; // 是否保留详情
+            const tags = [];
+
+            // 1. 判定是否为“精英项目” (Keepers)
+            for (const [name, logic] of Object.entries(KEEP_STRATEGIES)) {
+                const tag = logic(text, repo);
+                if (tag) {
+                    tags.push(tag);
+                    isKeeper = true; // 只要命中一个核心策略，就保留
+                }
+            }
+
+            // 2. 判定是否为“趋势噪音” (Stats Only)
+            for (const [name, logic] of Object.entries(STAT_ONLY_STRATEGIES)) {
+                const tag = logic(text);
+                if (tag) tags.push(tag);
+            }
+
+            // 3. 如果什么都没命中，归类为“野生热点”
+            if (tags.length === 0) {
+                tags.push('VIRAL_UNCATEGORIZED');
+            }
+
+            // --- 关键步骤：只统计，不一定保存 ---
+            
+            // A. 更新统计数据 (让指挥官知道主流是什么)
+            tags.forEach(t => { stats[t] = (stats[t] || 0) + 1; });
+
+            // B. 只有“精英”才入库
+            if (isKeeper) {
+                eliteItems.push({
+                    name: repo.full_name,
+                    desc: repo.description,
+                    stars: repo.stargazers_count,
+                    tags: tags, // 这里的 tags 可能包含 [TECH_ACCELERATOR, TALENT_GROWTH]
+                    url: repo.html_url
+                });
+            }
+        });
+
+        // 生成简报字符串
+        const summaryStr = Object.entries(stats).map(([k, v]) => `${k}:${v}`).join(', ');
+        console.log(`📊 趋势分布: ${summaryStr}`);
+        console.log(`🧹 清洗结果: 扫描 ${data.items.length} -> 保留 ${eliteItems.length}`);
+
+        if (data.items.length > 0) {
+            const path = `data/tech/${new Date().toISOString().split('T')[0]}/sentinel-${new Date().getHours()}h.json`;
+            
+            await octokit.repos.createOrUpdateFileContents({
+                owner: CONFIG.owner,
+                repo: CONFIG.repo,
+                path: path,
+                message: `🤖 Elite Data: ${eliteItems.length} items (Trend: ${summaryStr})`,
+                content: Buffer.from(JSON.stringify({
+                    meta: { 
+                        scanned_at: new Date().toISOString(),
+                        total_scanned: data.items.length,
+                        // ✨ 这里就是你要的“只留标签”：即使 eliteItems 是空的，这里也会告诉你现在的热点是什么
+                        trend_summary: stats 
+                    },
+                    items: eliteItems // ✨ 这里只会剩下真正有价值的项目
+                }, null, 2)).toString('base64')
+            });
+            console.log(`✅ 存档完毕。`);
+        }
+    } catch (e) {
+        console.error("❌ Error:", e.message);
+        process.exit(1);
     }
-  },
-  "items": [
-    {
-      "name": "forrestchang/andrej-karpathy-skills",
-      "desc": null,
-      "lang": null,
-      "stars": 1421,
-      "tags": [
-        "TALENT_GROWTH"
-      ],
-      "url": "https://github.com/forrestchang/andrej-karpathy-skills"
-    },
-    {
-      "name": "deepseek-ai/DeepSeek-OCR-2",
-      "desc": "Visual Causal Flow",
-      "lang": "Python",
-      "stars": 1192,
-      "tags": [
-        "VIRAL_UNCATEGORIZED"
-      ],
-      "url": "https://github.com/deepseek-ai/DeepSeek-OCR-2"
-    },
-    {
-      "name": "antfu/skills",
-      "desc": "Anthony Fu's curated collection of agent skills.",
-      "lang": "TypeScript",
-      "stars": 874,
-      "tags": [
-        "CODE_LEVERAGE",
-        "TALENT_GROWTH",
-        "KNOWLEDGE_BASE"
-      ],
-      "url": "https://github.com/antfu/skills"
-    },
-    {
-      "name": "xianyu110/clawbot",
-      "desc": "Clawdbot完整配置指南：从安装到Claude Code中转",
-      "lang": null,
-      "stars": 236,
-      "tags": [
-        "VIRAL_UNCATEGORIZED"
-      ],
-      "url": "https://github.com/xianyu110/clawbot"
-    },
-    {
-      "name": "zarazhangrui/frontend-slides",
-      "desc": "Create beautiful slides on the web using Claude's frontend skills",
-      "lang": null,
-      "stars": 149,
-      "tags": [
-        "TALENT_GROWTH"
-      ],
-      "url": "https://github.com/zarazhangrui/frontend-slides"
-    },
-    {
-      "name": "ecto/vcad",
-      "desc": "Parametric CAD in Rust — CSG modeling with multi-format export",
-      "lang": "Rust",
-      "stars": 122,
-      "tags": [
-        "VIRAL_UNCATEGORIZED"
-      ],
-      "url": "https://github.com/ecto/vcad"
-    },
-    {
-      "name": "dnnyngyen/kimi-k2.5-prompts-tools",
-      "desc": "Extracted artifacts from Kimi K2.5's inference-time behavior, tool schemas, and context/memory mechanisms. For AI alignment research, prompt engineering education, and studies in agentic architecture..",
-      "lang": null,
-      "stars": 93,
-      "tags": [
-        "VIRAL_UNCATEGORIZED"
-      ],
-      "url": "https://github.com/dnnyngyen/kimi-k2.5-prompts-tools"
-    },
-    {
-      "name": "asimovinc/asimov-v0",
-      "desc": "v0 of Asimov, an open-source humanoid robot",
-      "lang": null,
-      "stars": 92,
-      "tags": [
-        "VIRAL_UNCATEGORIZED"
-      ],
-      "url": "https://github.com/asimovinc/asimov-v0"
-    },
-    {
-      "name": "MLT-OSS/FirstData",
-      "desc": "The World's Most Comprehensive, Authoritative, and Structured Open Source Data Source Knowledge Base",
-      "lang": null,
-      "stars": 83,
-      "tags": [
-        "VIRAL_UNCATEGORIZED"
-      ],
-      "url": "https://github.com/MLT-OSS/FirstData"
-    },
-    {
-      "name": "mrdoob/three-quake",
-      "desc": "A WIP port of Quake (1996) to Three.js.",
-      "lang": "JavaScript",
-      "stars": 75,
-      "tags": [
-        "VIRAL_UNCATEGORIZED"
-      ],
-      "url": "https://github.com/mrdoob/three-quake"
-    },
-    {
-      "name": "h9zdev/WireTapper",
-      "desc": "WireTapper is a wireless OSINT tool that passively detects and maps Wi-Fi, Bluetooth, CCTV cameras, vehicles, headphones, TVs, IoT devices, and cell towers, turning nearby radio signals into clear situational intelligence 📡",
-      "lang": "HTML",
-      "stars": 74,
-      "tags": [
-        "VIRAL_UNCATEGORIZED"
-      ],
-      "url": "https://github.com/h9zdev/WireTapper"
-    },
-    {
-      "name": "levineam/qmd-skill",
-      "desc": null,
-      "lang": null,
-      "stars": 72,
-      "tags": [
-        "VIRAL_UNCATEGORIZED"
-      ],
-      "url": "https://github.com/levineam/qmd-skill"
-    },
-    {
-      "name": "morisseausamer/BIGMOUSTER",
-      "desc": "Big mouser ip stresser made by https://cnc-stress.com good for testing ip booter 2026",
-      "lang": "Python",
-      "stars": 68,
-      "tags": [
-        "VIRAL_UNCATEGORIZED"
-      ],
-      "url": "https://github.com/morisseausamer/BIGMOUSTER"
-    },
-    {
-      "name": "antirez/whisperbot",
-      "desc": "Telegram bot that transcribes audio messages via whisper.cpp",
-      "lang": "C",
-      "stars": 65,
-      "tags": [
-        "VIRAL_UNCATEGORIZED"
-      ],
-      "url": "https://github.com/antirez/whisperbot"
-    },
-    {
-      "name": "BquantFinance/licitaciones-espana",
-      "desc": null,
-      "lang": "Python",
-      "stars": 65,
-      "tags": [
-        "VIRAL_UNCATEGORIZED"
-      ],
-      "url": "https://github.com/BquantFinance/licitaciones-espana"
-    },
-    {
-      "name": "arcee-ai/trinity-large-tech-report",
-      "desc": null,
-      "lang": null,
-      "stars": 58,
-      "tags": [
-        "VIRAL_UNCATEGORIZED"
-      ],
-      "url": "https://github.com/arcee-ai/trinity-large-tech-report"
-    },
-    {
-      "name": "PrasannaKrishna0307/offline-rag-system",
-      "desc": null,
-      "lang": "TypeScript",
-      "stars": 57,
-      "tags": [
-        "VIRAL_UNCATEGORIZED"
-      ],
-      "url": "https://github.com/PrasannaKrishna0307/offline-rag-system"
-    },
-    {
-      "name": "Best2Two/SQL-FlappyBird",
-      "desc": "A Flappy Bird game implemented entirely in SQL Server, running at 30 or 60 frames per second.",
-      "lang": "TSQL",
-      "stars": 53,
-      "tags": [
-        "VIRAL_UNCATEGORIZED"
-      ],
-      "url": "https://github.com/Best2Two/SQL-FlappyBird"
-    },
-    {
-      "name": "CodeXTF2/OpenMalleableC2",
-      "desc": "Open Source Implementation of Cobalt Strike's Malleable C2",
-      "lang": "C",
-      "stars": 52,
-      "tags": [
-        "VIRAL_UNCATEGORIZED"
-      ],
-      "url": "https://github.com/CodeXTF2/OpenMalleableC2"
-    },
-    {
-      "name": "johunsang/pi-browser",
-      "desc": "다중 AI 모델을 활용한 브라우저 자동화 CLI (Google Gemini, OpenAI, Anthropic, Ollama 지원)",
-      "lang": "JavaScript",
-      "stars": 51,
-      "tags": [
-        "VIRAL_UNCATEGORIZED"
-      ],
-      "url": "https://github.com/johunsang/pi-browser"
-    },
-    {
-      "name": "cporter202/video-scraping-apis",
-      "desc": "A collection of APIs for scraping video metadata, engagement stats, and public video data across multiple platforms.",
-      "lang": "JavaScript",
-      "stars": 51,
-      "tags": [
-        "KNOWLEDGE_BASE"
-      ],
-      "url": "https://github.com/cporter202/video-scraping-apis"
-    }
-  ]
 }
+
+run();
