@@ -1,1 +1,9 @@
-@octokit/rest
+{
+  "name": "git-data",
+  "version": "1.0.0",
+  "description": "GitHub Sentinel Strategy Data",
+  "main": "sentinel.js",
+  "dependencies": {
+    "@octokit/rest": "^20.0.0"
+  }
+}
