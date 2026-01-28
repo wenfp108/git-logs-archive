@@ -1,9 +1,14 @@
-name: GitHub Sentinel (Unit 4)
+name: GitHub Sentinel (Strategy Scan)
 
 on:
   schedule:
-    - cron: '0 0,12 * * *'  
-  workflow_dispatch: 
+    # 保持你要求的 12 小时一次，但增加了手动按钮
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # ✨ 必须加上这个，你才能在 Actions 页面看到“Run workflow”手动按钮
+
+# ✨ 显式开启写入权限，防止 Actions 没反应或报错
+permissions:
+  contents: write
 
 jobs:
   scout:
@@ -11,13 +16,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
           node-version: '18'
-      - name: Install
-        run: npm install @octokit/rest
-      - name: Run
+
+      - name: Install dependencies
+        # 加上 --no-fund 减少日志干扰，保持 10s 内完成
+        run: npm install @octokit/rest --no-fund
+
+      - name: Run Sentinel Scan
         run: node sentinel.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
