@@ -1,5 +1,9 @@
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
+import process from 'process'; // 显式引入 process 更加规范（Node 20+ 可选，但推荐）
+
+async function archiveGitData() {
+   // ... 内容不用变 ...
 
 async function archiveGitData() {
     const today = new Date().toISOString().split('T')[0];
