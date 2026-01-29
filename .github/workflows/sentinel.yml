@@ -43,5 +43,5 @@ jobs:
             git commit -m "Intel: New tech signals captured [$(date +%F)]"
             git push
           else
-            console.log("No new intel found, skipping commit.")
+            echo "No new intel found, skipping commit." 
           fi
