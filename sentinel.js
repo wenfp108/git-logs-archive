@@ -9,7 +9,7 @@ const CONFIG = {
 
 const octokit = new Octokit({ auth: CONFIG.token });
 
-// --- 核心保留与趋势策略 (保持 3.1 版本的强大覆盖) ---
+// --- 核心保留与趋势策略  ---
 const KEEP_STRATEGIES = {
     ANDREESSEN: (text, repo) => (text.match(/agi|infra|llm|cuda|compiler|quantization|tensor|gpu|vision|ocr|vlm|multimodal|transformer|inference|rag|weights|model/i)) ? 'TECH_ACCELERATOR' : null,
     TORVALDS: (text, repo) => (['Rust', 'C', 'C++', 'Zig', 'Assembly'].includes(repo.language) && text.match(/kernel|driver|runtime|engine|embedded|performance|os|virtualization/i)) ? 'CORE_PRAGMATISM' : null,
@@ -26,7 +26,7 @@ const STAT_ONLY_STRATEGIES = {
 async function run() {
     // ✨ 时间戳处理逻辑
     const now = new Date();
-    // 转换为北京时间 (UTC+8) 方便指挥官阅读
+    // 转换为北京时间 (UTC+8) 方便阅读
     const bjTime = new Date(now.getTime() + 8 * 60 * 60 * 1000);
     const hour = bjTime.getUTCHours();
     const ampm = hour < 12 ? 'AM' : 'PM';
