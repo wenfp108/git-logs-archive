@@ -1,32 +1,29 @@
-name: GitHub Sentinel (Strategy Scan)
+name: 01. Sentinel Scout (Frontline Scan)
 
 on:
   schedule:
-    - cron: '0 0,12 * * *' 
+    - cron: '0 0,12 * * *' # 北京时间 8:00 和 20:00
   workflow_dispatch:
 
 jobs:
-  scout_and_harvest:
+  scout_mission:
     runs-on: ubuntu-latest
-    # ✅ 修正权限缩进，确保 Job 具有写入权限
     permissions:
-      contents: write
-      
-    steps:
-      - name: Checkout Frontline Repo
-        uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.MY_PAT }}
+      contents: write # 必须赋予写权限以提交数据
 
-      - name: Setup Node.js
+    steps:
+      - name: 📍 Checkout Frontline
+        uses: actions/checkout@v4
+
+      - name: 🔧 Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: Install Dependencies
+      - name: 📦 Install Dependencies
         run: npm install @octokit/rest --no-fund
 
-      # 🎯 Phase 1: 哨兵执行侦察任务 (生成数据到 data/tech)
+      # Phase 1: 执行侦察 (生成数据到 data/tech)
       - name: 📡 Run Sentinel Scan
         run: node sentinel.js
         env:
@@ -34,36 +31,17 @@ jobs:
           REPO_OWNER: ${{ github.repository_owner }}
           REPO_NAME: ${{ github.event.repository.name }}
 
-      # 🏦 Phase 2: 准备中央银行环境
-      - name: Checkout Central Bank
-        uses: actions/checkout@v4
-        with:
-          repository: wenfp108/Central-Bank
-          token: ${{ secrets.MY_PAT }}
-          path: central_bank
-
-      - name: 🏦 Execute Archive Logic
-        run: node scripts/archive-git-to-bank.js
-
-      # 📤 Phase 3: 推送变更至中央银行
-      - name: Push to Central Bank
+      # Phase 2: 暂存情报 (提交到当前仓库)
+      - name: 💾 Commit Intel to Frontline
         run: |
-          cd central_bank
-          git config --global user.name 'Architect Bot'
-          git config --global user.email 'bot@architect.alpha'
-          git add .
-          git commit -m "Vault Update: GitHub Tech Sentinel $(date +%F)" || exit 0
-          git push
-
-      # 🧹 Phase 4: 清理前线并同步 (只留 data/ 父级)
-      - name: Sync & Cleanup Frontline
-        run: |
-          # 核心修复：删除子目录，防止干扰主库 Git
-          rm -rf central_bank 
+          git config --global user.name 'Sentinel Scout'
+          git config --global user.email 'scout@architect.alpha'
           
-          git config --global user.name 'Architect Bot'
-          git config --global user.email 'bot@architect.alpha'
-          # 同步 data/ 目录下的物理删除（由 JS 脚本执行）
-          git add data/
-          git commit -m "Cleanup: Tech signals flushed to Central Bank [skip ci]" || exit 0
-          git push
+          # 检查是否有新数据生成
+          if [[ -n $(git status --porcelain data/) ]]; then
+            git add data/
+            git commit -m "Intel: New tech signals captured [$(date +%F)]"
+            git push
+          else
+            console.log("No new intel found, skipping commit.")
+          fi
