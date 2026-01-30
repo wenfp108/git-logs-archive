@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-01-30T09:50:58.224Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 4,
+      "CODE_LEVERAGE": 1,
+      "TALENT_GROWTH": 2
+    }
+  },
+  "items": [
+    {
+      "name": "Kylsky/chatgpt-team-helper",
+      "stars": 200,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Kylsky/chatgpt-team-helper"
+    },
+    {
+      "name": "cisco-ai-defense/skill-scanner",
+      "stars": 79,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cisco-ai-defense/skill-scanner"
+    }
+  ]
+}
