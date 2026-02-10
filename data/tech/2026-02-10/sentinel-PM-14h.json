@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-10T14:58:49.454Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 12,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "jlia0/tinyclaw",
+      "stars": 459,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jlia0/tinyclaw"
+    },
+    {
+      "name": "MemeCalculate/moyin-creator",
+      "stars": 225,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MemeCalculate/moyin-creator"
+    },
+    {
+      "name": "alibaba-damo-academy/RynnBrain",
+      "stars": 57,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alibaba-damo-academy/RynnBrain"
+    },
+    {
+      "name": "Renforce-Dynamics/MultiModalWBC",
+      "stars": 41,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Renforce-Dynamics/MultiModalWBC"
+    }
+  ]
+}
