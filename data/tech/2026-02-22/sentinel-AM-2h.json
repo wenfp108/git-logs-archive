@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-22T02:27:53.732Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "KNOWLEDGE_BASE": 3,
+      "VIRAL_UNCATEGORIZED": 6,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "ShinMegamiBoson/OpenPlanter",
+      "stars": 734,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ShinMegamiBoson/OpenPlanter"
+    },
+    {
+      "name": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "stars": 268,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/CraftyGeezer/Kalshi-Polymarket-Ai-bot"
+    },
+    {
+      "name": "WistfulHopes/DBZ1",
+      "stars": 58,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/WistfulHopes/DBZ1"
+    }
+  ]
+}
