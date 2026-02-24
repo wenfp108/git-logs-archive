@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-24T20:55:24.740Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 2,
+      "TALENT_GROWTH": 3,
+      "TECH_ACCELERATOR": 4,
+      "VIRAL_UNCATEGORIZED": 12,
+      "CORE_PRAGMATISM": 2,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "sangrokjung/claude-forge",
+      "stars": 182,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sangrokjung/claude-forge"
+    },
+    {
+      "name": "lifo-sh/lifo",
+      "stars": 169,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lifo-sh/lifo"
+    },
+    {
+      "name": "xM0kht4r/VEN0m-Ransomware",
+      "stars": 162,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/xM0kht4r/VEN0m-Ransomware"
+    },
+    {
+      "name": "t3tra-dev/zerocast",
+      "stars": 55,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/t3tra-dev/zerocast"
+    },
+    {
+      "name": "confluence-labs/arc-agi-2",
+      "stars": 51,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/confluence-labs/arc-agi-2"
+    },
+    {
+      "name": "Clipmerhythm/AI-Assistant-in-real-time-2026",
+      "stars": 46,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Clipmerhythm/AI-Assistant-in-real-time-2026"
+    },
+    {
+      "name": "MagistrateVise13/AI-Voice-Changer-Real-Time-2026",
+      "stars": 45,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH",
+        "CAREER_MOVES"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MagistrateVise13/AI-Voice-Changer-Real-Time-2026"
+    }
+  ]
+}
