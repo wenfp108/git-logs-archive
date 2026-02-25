@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-26T02:59:11.955Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 5,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 22,
+      "TECH_ACCELERATOR": 2,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "cloudflare/vinext",
+      "stars": 2688,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cloudflare/vinext"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "stars": 888,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "name": "Polymarket/polymarket-cli",
+      "stars": 886,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Polymarket/polymarket-cli"
+    },
+    {
+      "name": "peteromallet/dataclaw",
+      "stars": 726,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/peteromallet/dataclaw"
+    },
+    {
+      "name": "rebane2001/x86CSS",
+      "stars": 405,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/rebane2001/x86CSS"
+    },
+    {
+      "name": "win4r/memory-lancedb-pro",
+      "stars": 335,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/win4r/memory-lancedb-pro"
+    },
+    {
+      "name": "whyzhow/PersonalStyleAI-Framework-",
+      "stars": 84,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/whyzhow/PersonalStyleAI-Framework-"
+    },
+    {
+      "name": "prime-radiant-inc/engineering-notebook",
+      "stars": 41,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/prime-radiant-inc/engineering-notebook"
+    }
+  ]
+}
