@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-27T14:45:36.512Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 8,
+      "CODE_LEVERAGE": 1,
+      "TALENT_GROWTH": 2
+    }
+  },
+  "items": [
+    {
+      "name": "6551Team/opennews-mcp",
+      "stars": 346,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/6551Team/opennews-mcp"
+    },
+    {
+      "name": "bcurts/agentchattr",
+      "stars": 87,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bcurts/agentchattr"
+    }
+  ]
+}
