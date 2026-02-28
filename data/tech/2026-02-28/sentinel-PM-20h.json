@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-28T20:35:32.164Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "TECH_ACCELERATOR": 2,
+      "VIRAL_UNCATEGORIZED": 21,
+      "KNOWLEDGE_BASE": 1,
+      "TALENT_GROWTH": 2
+    }
+  },
+  "items": [
+    {
+      "name": "xstongxue/best-prompts",
+      "stars": 459,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xstongxue/best-prompts"
+    },
+    {
+      "name": "arturoabreuhd/pinescript-ai",
+      "stars": 293,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/arturoabreuhd/pinescript-ai"
+    },
+    {
+      "name": "Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-tool",
+      "stars": 215,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-tool"
+    },
+    {
+      "name": "bigboss9n6ds/CapCutPro-2026",
+      "stars": 71,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bigboss9n6ds/CapCutPro-2026"
+    }
+  ]
+}
