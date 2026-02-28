@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-02-28T14:31:32.663Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 16,
+      "KNOWLEDGE_BASE": 1,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "xstongxue/best-prompts",
+      "stars": 407,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xstongxue/best-prompts"
+    },
+    {
+      "name": "arturoabreuhd/pinescript-ai",
+      "stars": 261,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/arturoabreuhd/pinescript-ai"
+    },
+    {
+      "name": "bigboss9n6ds/CapCutPro-2026",
+      "stars": 71,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bigboss9n6ds/CapCutPro-2026"
+    }
+  ]
+}
