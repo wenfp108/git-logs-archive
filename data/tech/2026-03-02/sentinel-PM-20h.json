@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-02T20:44:50.974Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 5,
+      "TALENT_GROWTH": 1,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_UNCATEGORIZED": 20,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "World-Open-Graph/br-acc",
+      "stars": 891,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/World-Open-Graph/br-acc"
+    },
+    {
+      "name": "smartcmd/MinecraftConsoles",
+      "stars": 615,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/smartcmd/MinecraftConsoles"
+    },
+    {
+      "name": "LeoYeAI/openclaw-master-skills",
+      "stars": 289,
+      "tags": [
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/LeoYeAI/openclaw-master-skills"
+    },
+    {
+      "name": "LCEMP/LCEMP",
+      "stars": 237,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/LCEMP/LCEMP"
+    },
+    {
+      "name": "liuxiaopai-ai/raphael-publish",
+      "stars": 210,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/liuxiaopai-ai/raphael-publish"
+    },
+    {
+      "name": "ThePixelMoon/4jcraft",
+      "stars": 46,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ThePixelMoon/4jcraft"
+    }
+  ]
+}
