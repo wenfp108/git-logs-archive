@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-05T09:44:23.972Z",
+    "session": "AM",
+    "trend_summary": {
+      "CAREER_MOVES": 1,
+      "VIRAL_GIANT": 1,
+      "TECH_ACCELERATOR": 3,
+      "VIRAL_UNCATEGORIZED": 13,
+      "TALENT_GROWTH": 1,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "duoan/TorchCode",
+      "stars": 352,
+      "tags": [
+        "CAREER_MOVES",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/duoan/TorchCode"
+    },
+    {
+      "name": "tanishqkumar/ssd",
+      "stars": 170,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/tanishqkumar/ssd"
+    },
+    {
+      "name": "coyvalyss1/model-matchmaker",
+      "stars": 88,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/coyvalyss1/model-matchmaker"
+    },
+    {
+      "name": "jshachm/chronoh",
+      "stars": 52,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jshachm/chronoh"
+    },
+    {
+      "name": "ygwyg/agent-experience",
+      "stars": 42,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ygwyg/agent-experience"
+    }
+  ]
+}
