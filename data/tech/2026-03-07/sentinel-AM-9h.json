@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-07T09:27:33.122Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "TECH_ACCELERATOR": 3,
+      "TALENT_GROWTH": 1,
+      "VIRAL_UNCATEGORIZED": 2
+    }
+  },
+  "items": [
+    {
+      "name": "cyxzdev/Uncodixfy",
+      "stars": 285,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cyxzdev/Uncodixfy"
+    },
+    {
+      "name": "dazzyddos/PrivHound",
+      "stars": 113,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dazzyddos/PrivHound"
+    },
+    {
+      "name": "karpathy/autoresearch",
+      "stars": 105,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/karpathy/autoresearch"
+    },
+    {
+      "name": "QJHWC/PaperForge",
+      "stars": 59,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/QJHWC/PaperForge"
+    }
+  ]
+}
