@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-10T09:28:19.841Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 3,
+      "VIRAL_UNCATEGORIZED": 8,
+      "TALENT_GROWTH": 1,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "knowsuchagency/mcp2cli",
+      "stars": 354,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/knowsuchagency/mcp2cli"
+    },
+    {
+      "name": "karpathy/agenthub",
+      "stars": 244,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/karpathy/agenthub"
+    },
+    {
+      "name": "Taprclaw-ai-agent/openclaw-cross-market-arbitrage-agent",
+      "stars": 53,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Taprclaw-ai-agent/openclaw-cross-market-arbitrage-agent"
+    },
+    {
+      "name": "qntrade1/polymarket-arbitrage-trading-bot",
+      "stars": 52,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/qntrade1/polymarket-arbitrage-trading-bot"
+    },
+    {
+      "name": "Aura-AI-Trading-Agent/Aura-AI-Trading-Agent",
+      "stars": 51,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Aura-AI-Trading-Agent/Aura-AI-Trading-Agent"
+    }
+  ]
+}
