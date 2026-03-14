@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-14T09:41:46.342Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 7,
+      "TALENT_GROWTH": 2
+    }
+  },
+  "items": [
+    {
+      "name": "upper-up/meta-lobbying-and-other-findings",
+      "stars": 439,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/upper-up/meta-lobbying-and-other-findings"
+    },
+    {
+      "name": "KeyID-AI/agent-kit",
+      "stars": 300,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/KeyID-AI/agent-kit"
+    }
+  ]
+}
