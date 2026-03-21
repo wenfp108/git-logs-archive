@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-21T14:36:23.232Z",
+    "session": "PM",
+    "trend_summary": {
+      "CORE_PRAGMATISM": 1,
+      "TALENT_GROWTH": 2,
+      "VIRAL_UNCATEGORIZED": 7,
+      "CODE_LEVERAGE": 1,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "ghostty-org/ghostling",
+      "stars": 235,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ghostty-org/ghostling"
+    },
+    {
+      "name": "sunbigfly/ppt-agent-skill",
+      "stars": 61,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sunbigfly/ppt-agent-skill"
+    },
+    {
+      "name": "mattnowdev/thinking-partner",
+      "stars": 55,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mattnowdev/thinking-partner"
+    },
+    {
+      "name": "bowang-lab/BioReason-Pro",
+      "stars": 51,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bowang-lab/BioReason-Pro"
+    }
+  ]
+}
