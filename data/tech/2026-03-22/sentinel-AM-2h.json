@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-22T02:29:22.613Z",
+    "session": "AM",
+    "trend_summary": {
+      "CORE_PRAGMATISM": 2,
+      "TALENT_GROWTH": 3,
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 17,
+      "CODE_LEVERAGE": 3,
+      "KNOWLEDGE_BASE": 1,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "ghostty-org/ghostling",
+      "stars": 508,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ghostty-org/ghostling"
+    },
+    {
+      "name": "dontbesilent2025/dbskill",
+      "stars": 464,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dontbesilent2025/dbskill"
+    },
+    {
+      "name": "dou-jiang/codex-console",
+      "stars": 251,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dou-jiang/codex-console"
+    },
+    {
+      "name": "zengwenliang416/ppt-agent",
+      "stars": 148,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/zengwenliang416/ppt-agent"
+    },
+    {
+      "name": "mattnowdev/thinking-partner",
+      "stars": 90,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mattnowdev/thinking-partner"
+    },
+    {
+      "name": "sunbigfly/ppt-agent-skill",
+      "stars": 83,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sunbigfly/ppt-agent-skill"
+    },
+    {
+      "name": "bowang-lab/BioReason-Pro",
+      "stars": 65,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bowang-lab/BioReason-Pro"
+    },
+    {
+      "name": "zhu1090093659/spec_driven_develop",
+      "stars": 57,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/zhu1090093659/spec_driven_develop"
+    },
+    {
+      "name": "LittleGoob/Lossless-Scaling-Upscale-FPS-Windows",
+      "stars": 45,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/LittleGoob/Lossless-Scaling-Upscale-FPS-Windows"
+    }
+  ]
+}
