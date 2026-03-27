@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-03-27T15:00:52.416Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "TALENT_GROWTH": 1,
+      "TECH_ACCELERATOR": 5,
+      "CORE_PRAGMATISM": 1,
+      "KNOWLEDGE_BASE": 1,
+      "VIRAL_UNCATEGORIZED": 9
+    }
+  },
+  "items": [
+    {
+      "name": "magnum6actual/flipoff",
+      "stars": 735,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/magnum6actual/flipoff"
+    },
+    {
+      "name": "jxnxts/mcp-brasil",
+      "stars": 423,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jxnxts/mcp-brasil"
+    },
+    {
+      "name": "realkimbarrett/advertising-skills",
+      "stars": 337,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/realkimbarrett/advertising-skills"
+    },
+    {
+      "name": "oaker-io/wewrite",
+      "stars": 315,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/oaker-io/wewrite"
+    },
+    {
+      "name": "glommer/pgmicro",
+      "stars": 156,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/glommer/pgmicro"
+    },
+    {
+      "name": "nicedreamzapp/claude-code-local",
+      "stars": 116,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nicedreamzapp/claude-code-local"
+    },
+    {
+      "name": "0x8dxd/Polymarket-Trading-Bot-Arbitrage-Maker",
+      "stars": 87,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0x8dxd/Polymarket-Trading-Bot-Arbitrage-Maker"
+    },
+    {
+      "name": "jkeatn/Tintin",
+      "stars": 62,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jkeatn/Tintin"
+    },
+    {
+      "name": "scrya-com/rotorquant",
+      "stars": 51,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/scrya-com/rotorquant"
+    }
+  ]
+}
