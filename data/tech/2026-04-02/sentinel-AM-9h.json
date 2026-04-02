@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-02T09:53:23.032Z",
+    "session": "AM",
+    "trend_summary": {
+      "TECH_ACCELERATOR": 3,
+      "VIRAL_GIANT": 6,
+      "CODE_LEVERAGE": 4,
+      "KNOWLEDGE_BASE": 3,
+      "VIRAL_UNCATEGORIZED": 16,
+      "PARADIGM_SHIFT": 1,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "Gitlawb/openclaude",
+      "stars": 3663,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Gitlawb/openclaude"
+    },
+    {
+      "name": "emdash-cms/emdash",
+      "stars": 1684,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/emdash-cms/emdash"
+    },
+    {
+      "name": "dominikmartn/nothing-design-skill",
+      "stars": 395,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dominikmartn/nothing-design-skill"
+    },
+    {
+      "name": "repowise-dev/claude-code-prompts",
+      "stars": 335,
+      "tags": [
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/repowise-dev/claude-code-prompts"
+    },
+    {
+      "name": "code-yeongyu/not-claude-code-emulator",
+      "stars": 316,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/code-yeongyu/not-claude-code-emulator"
+    },
+    {
+      "name": "mrdoob/three.wasm",
+      "stars": 282,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mrdoob/three.wasm"
+    },
+    {
+      "name": "win4r/cc-notebook",
+      "stars": 279,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/win4r/cc-notebook"
+    },
+    {
+      "name": "wquguru/harness-books",
+      "stars": 236,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/wquguru/harness-books"
+    },
+    {
+      "name": "kropdx/unofficial-claude-code-prompt-playbook",
+      "stars": 214,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kropdx/unofficial-claude-code-prompt-playbook"
+    },
+    {
+      "name": "levelsio/xdr-boost",
+      "stars": 79,
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/levelsio/xdr-boost"
+    },
+    {
+      "name": "LearnPrompt/cc-harness-skills",
+      "stars": 73,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/LearnPrompt/cc-harness-skills"
+    },
+    {
+      "name": "777genius/claude-code-working",
+      "stars": 61,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/777genius/claude-code-working"
+    },
+    {
+      "name": "nathanyjleeprojects/learn-from-claudecode",
+      "stars": 48,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nathanyjleeprojects/learn-from-claudecode"
+    },
+    {
+      "name": "alejandrobalderas/claude-code-from-source",
+      "stars": 43,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alejandrobalderas/claude-code-from-source"
+    }
+  ]
+}
