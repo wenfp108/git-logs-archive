@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-06T02:36:14.965Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "VIRAL_UNCATEGORIZED": 42,
+      "CORE_PRAGMATISM": 4,
+      "TECH_ACCELERATOR": 2,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "JuliusBrussee/caveman",
+      "stars": 1028,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+      "name": "santifer/career-ops",
+      "stars": 553,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/santifer/career-ops"
+    },
+    {
+      "name": "alchaincyf/nuwa-skill",
+      "stars": 479,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alchaincyf/nuwa-skill"
+    },
+    {
+      "name": "jinchenma94/bazi-skill",
+      "stars": 312,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jinchenma94/bazi-skill"
+    },
+    {
+      "name": "Snake1029/Lossless-Scaling-Frame-Generation-PC",
+      "stars": 115,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Snake1029/Lossless-Scaling-Frame-Generation-PC"
+    },
+    {
+      "name": "Andercr22/Pokemon-Champions-For-PC",
+      "stars": 114,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Andercr22/Pokemon-Champions-For-PC"
+    },
+    {
+      "name": "Ramz-p/JSON-Mod-Manager-Crimson-Desert",
+      "stars": 112,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Ramz-p/JSON-Mod-Manager-Crimson-Desert"
+    },
+    {
+      "name": "Marwaneissa1/MFG-X4-unlock-for-Crimson-Desert-for-AMD--NVIDIA--and-Intel.-DLSS-FSRFG",
+      "stars": 110,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Marwaneissa1/MFG-X4-unlock-for-Crimson-Desert-for-AMD--NVIDIA--and-Intel.-DLSS-FSRFG"
+    }
+  ]
+}
