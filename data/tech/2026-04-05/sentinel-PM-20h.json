@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-05T20:45:21.900Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "VIRAL_UNCATEGORIZED": 47
+    }
+  },
+  "items": [
+    {
+      "name": "JuliusBrussee/caveman",
+      "stars": 379,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/JuliusBrussee/caveman"
+    },
+    {
+      "name": "jinchenma94/bazi-skill",
+      "stars": 244,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jinchenma94/bazi-skill"
+    },
+    {
+      "name": "alchaincyf/nuwa-skill",
+      "stars": 232,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alchaincyf/nuwa-skill"
+    }
+  ]
+}
