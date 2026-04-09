@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-09T15:15:03.262Z",
+    "session": "PM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 1,
+      "TECH_ACCELERATOR": 4,
+      "KNOWLEDGE_BASE": 3,
+      "TALENT_GROWTH": 4,
+      "VIRAL_UNCATEGORIZED": 6
+    }
+  },
+  "items": [
+    {
+      "name": "alchaincyf/hermes-agent-orange-book",
+      "stars": 522,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alchaincyf/hermes-agent-orange-book"
+    },
+    {
+      "name": "brooks376/Happy-Horse-1.0",
+      "stars": 437,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/brooks376/Happy-Horse-1.0"
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "stars": 139,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nashsu/llm_wiki"
+    },
+    {
+      "name": "OpenMOSS/MOSS-VL",
+      "stars": 86,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/OpenMOSS/MOSS-VL"
+    },
+    {
+      "name": "cclank/Hermes-Wiki",
+      "stars": 50,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cclank/Hermes-Wiki"
+    }
+  ]
+}
