@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-12T10:05:06.807Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 6,
+      "CORE_PRAGMATISM": 2,
+      "KNOWLEDGE_BASE": 2,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "suandimam/Free-FL-Studio-25.2.5-PC-Edition",
+      "stars": 73,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/suandimam/Free-FL-Studio-25.2.5-PC-Edition"
+    },
+    {
+      "name": "Davinvaded/Lossless-Scaling-PC-Edition",
+      "stars": 45,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Davinvaded/Lossless-Scaling-PC-Edition"
+    },
+    {
+      "name": "litmus4ai/litmus",
+      "stars": 43,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/litmus4ai/litmus"
+    },
+    {
+      "name": "HJCheng0602/nanoPD",
+      "stars": 43,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/HJCheng0602/nanoPD"
+    }
+  ]
+}
