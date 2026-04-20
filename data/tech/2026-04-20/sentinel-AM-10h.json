@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-20T10:09:57.044Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 2,
+      "TALENT_GROWTH": 3,
+      "VIRAL_UNCATEGORIZED": 7,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "ZeroZ-lab/cc-design",
+      "stars": 279,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ZeroZ-lab/cc-design"
+    },
+    {
+      "name": "TheRealSeanDonahoe/agents-md",
+      "stars": 175,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TheRealSeanDonahoe/agents-md"
+    }
+  ]
+}
