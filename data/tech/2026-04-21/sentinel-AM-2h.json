@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-21T02:57:35.196Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 4,
+      "VIRAL_GIANT": 2,
+      "TALENT_GROWTH": 4,
+      "VIRAL_UNCATEGORIZED": 20,
+      "KNOWLEDGE_BASE": 4,
+      "TECH_ACCELERATOR": 4,
+      "CORE_PRAGMATISM": 3
+    }
+  },
+  "items": [
+    {
+      "name": "ZeroZ-lab/cc-design",
+      "stars": 452,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ZeroZ-lab/cc-design"
+    },
+    {
+      "name": "shivampkumar/trellis-mac",
+      "stars": 260,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/shivampkumar/trellis-mac"
+    },
+    {
+      "name": "golbin/hop",
+      "stars": 258,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/golbin/hop"
+    },
+    {
+      "name": "TheRealSeanDonahoe/agents-md",
+      "stars": 227,
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TheRealSeanDonahoe/agents-md"
+    },
+    {
+      "name": "imtonyjaa/ggemu-fishing-joy",
+      "stars": 109,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/imtonyjaa/ggemu-fishing-joy"
+    },
+    {
+      "name": "anothervibecoder-s/claudecode-harness",
+      "stars": 66,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/anothervibecoder-s/claudecode-harness"
+    },
+    {
+      "name": "knit-finances/polymarket-arbitrage-bot",
+      "stars": 65,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/knit-finances/polymarket-arbitrage-bot"
+    },
+    {
+      "name": "intertwine/dspy-agent-skills",
+      "stars": 65,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/intertwine/dspy-agent-skills"
+    },
+    {
+      "name": "rhebavacio65857626581/R6-Legend-DMA-2026",
+      "stars": 46,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/rhebavacio65857626581/R6-Legend-DMA-2026"
+    },
+    {
+      "name": "lisedaro86421728843/OW-Legend-DMA-2026",
+      "stars": 45,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lisedaro86421728843/OW-Legend-DMA-2026"
+    },
+    {
+      "name": "annabellwalshe34276182841/Pubg_Legend_DMA",
+      "stars": 45,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/annabellwalshe34276182841/Pubg_Legend_DMA"
+    },
+    {
+      "name": "ovoment/ovo-local-llm",
+      "stars": 44,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ovoment/ovo-local-llm"
+    }
+  ]
+}
