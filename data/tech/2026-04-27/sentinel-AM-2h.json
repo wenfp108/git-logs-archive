@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-27T02:42:58.820Z",
+    "session": "AM",
+    "trend_summary": {
+      "KNOWLEDGE_BASE": 1,
+      "VIRAL_GIANT": 4,
+      "VIRAL_UNCATEGORIZED": 18,
+      "TECH_ACCELERATOR": 4,
+      "CORE_PRAGMATISM": 3,
+      "TALENT_GROWTH": 4,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "stars": 540,
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2"
+    },
+    {
+      "name": "PrimeOrder-Labs/polymarket-copy-trading-bot",
+      "stars": 248,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PrimeOrder-Labs/polymarket-copy-trading-bot"
+    },
+    {
+      "name": "Orbital-Alpha/polymarket-copy-trading-bot",
+      "stars": 246,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Orbital-Alpha/polymarket-copy-trading-bot"
+    },
+    {
+      "name": "ksimback/tech-debt-skill",
+      "stars": 222,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ksimback/tech-debt-skill"
+    },
+    {
+      "name": "Alfattah07/Acrobat-Editor-2026",
+      "stars": 131,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Alfattah07/Acrobat-Editor-2026"
+    },
+    {
+      "name": "aresthehacker/Assassin-s-Creed-Black-Flag",
+      "stars": 127,
+      "tags": [
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/aresthehacker/Assassin-s-Creed-Black-Flag"
+    },
+    {
+      "name": "shriddha/LEGO-Batman-Legacy-of-the-Dark-Knight",
+      "stars": 106,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/shriddha/LEGO-Batman-Legacy-of-the-Dark-Knight"
+    },
+    {
+      "name": "h9-tec/llm-systems-engineering-roadmap",
+      "stars": 84,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/h9-tec/llm-systems-engineering-roadmap"
+    },
+    {
+      "name": "alefinvest/polymarket-arbitrage-bot",
+      "stars": 45,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alefinvest/polymarket-arbitrage-bot"
+    },
+    {
+      "name": "AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash",
+      "stars": 43,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash"
+    }
+  ]
+}
