@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-27T16:13:17.763Z",
+    "session": "PM",
+    "trend_summary": {
+      "TALENT_GROWTH": 4,
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 10,
+      "TECH_ACCELERATOR": 3,
+      "CORE_PRAGMATISM": 1,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "avaco-cloud/Vercel-XHTTP",
+      "stars": 258,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/avaco-cloud/Vercel-XHTTP"
+    },
+    {
+      "name": "alefinvest/polymarket-arbitrage-bot",
+      "stars": 164,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alefinvest/polymarket-arbitrage-bot"
+    },
+    {
+      "name": "sweriko/ai4anim-webgpu",
+      "stars": 107,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sweriko/ai4anim-webgpu"
+    },
+    {
+      "name": "Muzma86/Legend-OF-Zelda-Twilight-Princess-For-PC",
+      "stars": 46,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Muzma86/Legend-OF-Zelda-Twilight-Princess-For-PC"
+    }
+  ]
+}
