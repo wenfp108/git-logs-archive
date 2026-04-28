@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-04-28T16:15:30.743Z",
+    "session": "PM",
+    "trend_summary": {
+      "TALENT_GROWTH": 4,
+      "VIRAL_GIANT": 3,
+      "KNOWLEDGE_BASE": 2,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 14,
+      "CORE_PRAGMATISM": 3,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "evanklem/evanflow",
+      "stars": 299,
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/evanklem/evanflow"
+    },
+    {
+      "name": "Udacity-ai/pumpfun-ai-trading-bot",
+      "stars": 219,
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Udacity-ai/pumpfun-ai-trading-bot"
+    },
+    {
+      "name": "HKUDS-AI/polymarket-ai-trading",
+      "stars": 218,
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/HKUDS-AI/polymarket-ai-trading"
+    },
+    {
+      "name": "DanOps-1/gpt-pp-team",
+      "stars": 160,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DanOps-1/gpt-pp-team"
+    },
+    {
+      "name": "6551-Team/ai-auto-trading",
+      "stars": 138,
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/6551-Team/ai-auto-trading"
+    },
+    {
+      "name": "bitvoxing/Tomodachi-Life-Living-the-Dream-PC-Port",
+      "stars": 128,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bitvoxing/Tomodachi-Life-Living-the-Dream-PC-Port"
+    },
+    {
+      "name": "Nareshkkkk/Lossless-Scaling-LSFG",
+      "stars": 125,
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Nareshkkkk/Lossless-Scaling-LSFG"
+    },
+    {
+      "name": "mostafamo123/Pragmata-Reframework",
+      "stars": 82,
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/mostafamo123/Pragmata-Reframework"
+    },
+    {
+      "name": "homer66/Windows-Xbox-Mode",
+      "stars": 81,
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/homer66/Windows-Xbox-Mode"
+    }
+  ]
+}
