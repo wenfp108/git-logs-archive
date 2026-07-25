@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-25T15:58:21.621Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 4
+    }
+  },
+  "items": [
+    {
+      "name": "melloworchid8rr6g/TG-Polymarket-bot",
+      "stars": 313,
+      "full_text": "Telegram bot that catches Polymarket whale trades in real time and lets you copy them in one tap — plus a free public alerts channel.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/melloworchid8rr6g/TG-Polymarket-bot"
+    },
+    {
+      "name": "mikehasa/agentacct",
+      "stars": 248,
+      "full_text": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins. Read-only over coding-agent logs; zero-JavaScript localhost dashboard.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/mikehasa/agentacct"
+    },
+    {
+      "name": "CWS6206/EasySystemCleaner",
+      "stars": 122,
+      "full_text": "EasySystemCleaner Portable, original Windows 11 cleaning utility. Clean Windows temporary files, crash/error reports, thumbnail cache, browser caches and the Recycle Bin",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CWS6206/EasySystemCleaner"
+    },
+    {
+      "name": "rockthemike712/mission-control-board",
+      "stars": 70,
+      "full_text": "Single-file, zero-dependency task board: owner-vs-agent plates, a dependency map, tap-to-complete.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/rockthemike712/mission-control-board"
+    }
+  ]
+}
