@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-28T21:51:35.178Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 17,
+      "TALENT_GROWTH": 1,
+      "TECH_ACCELERATOR": 3
+    }
+  },
+  "items": [
+    {
+      "name": "MoonshotAI/Kimi-K3",
+      "stars": 3020,
+      "full_text": "Open Frontier Intelligence",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MoonshotAI/Kimi-K3"
+    },
+    {
+      "name": "OneInterface/stormy-cookbook",
+      "stars": 72,
+      "full_text": "Open-source cookbook for the Stormy Social Data API and MCP server (Model Context Protocol) — one REST API for the TikTok API, YouTube API, Instagram API, LinkedIn API, X (Twitter) API and Reddit API. Search creators, resolve profiles, read posts and find verified emails from Claude, Cursor, Codex, ChatGPT or curl. One key, no scrapers.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/OneInterface/stormy-cookbook"
+    },
+    {
+      "name": "averywinston/Z8d69",
+      "stars": 62,
+      "full_text": "Envisioning ZKMeshNet as a decentralized foundation for scalable, secure, enterprise architectures, built upon robust Secure Multi-Party Computation protocols.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/averywinston/Z8d69"
+    },
+    {
+      "name": "averywinston/Model7c84",
+      "stars": 61,
+      "full_text": "Intelligent ModelChainNet orchestrates high-performance distributed training, unlocking scalable, flexible data workflows through seamless pipeline",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/averywinston/Model7c84"
+    }
+  ]
+}
