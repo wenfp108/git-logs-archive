@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-29T03:14:54.079Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 19,
+      "TECH_ACCELERATOR": 3
+    }
+  },
+  "items": [
+    {
+      "name": "MoonshotAI/Kimi-K3",
+      "stars": 3260,
+      "full_text": "Open Frontier Intelligence",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MoonshotAI/Kimi-K3"
+    },
+    {
+      "name": "0xwilliamortiz/ponytail-improved",
+      "stars": 210,
+      "full_text": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved"
+    },
+    {
+      "name": "OneInterface/stormy-cookbook",
+      "stars": 72,
+      "full_text": "Open-source cookbook for the Stormy Social Data API and MCP server (Model Context Protocol) — one REST API for the TikTok API, YouTube API, Instagram API, LinkedIn API, X (Twitter) API and Reddit API. Search creators, resolve profiles, read posts and find verified emails from Claude, Cursor, Codex, ChatGPT or curl. One key, no scrapers.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/OneInterface/stormy-cookbook"
+    },
+    {
+      "name": "averywinston/Z8d69",
+      "stars": 70,
+      "full_text": "Envisioning ZKMeshNet as a decentralized foundation for scalable, secure, enterprise architectures, built upon robust Secure Multi-Party Computation protocols.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/averywinston/Z8d69"
+    },
+    {
+      "name": "averywinston/Model7c84",
+      "stars": 69,
+      "full_text": "Intelligent ModelChainNet orchestrates high-performance distributed training, unlocking scalable, flexible data workflows through seamless pipeline",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/averywinston/Model7c84"
+    }
+  ]
+}
