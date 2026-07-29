@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-29T10:05:00.641Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 1,
+      "TECH_ACCELERATOR": 1,
+      "VIRAL_UNCATEGORIZED": 8,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "0xwilliamortiz/ponytail-improved",
+      "stars": 472,
+      "full_text": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved"
+    },
+    {
+      "name": "gavamedia/deltafin",
+      "stars": 129,
+      "full_text": "Run Kimi K3, a 2.8T-parameter Mixture-of-Experts LLM, on a single Apple Silicon Mac. Streams MXFP4 experts on demand over HTTP into a local disk cache — fused NEON kernels, Metal/MPS compute, exact reproducible decoding, and an OpenAI-compatible API server for local chat and coding agents.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/gavamedia/deltafin"
+    }
+  ]
+}
