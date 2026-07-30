@@ -1,0 +1,322 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-30T16:14:40.573Z",
+    "total_captured": 21,
+    "TRENDING_DIRECTIONS": [
+      "Gene (Heat:61)",
+      "Fold (higher-order function) (Heat:53)",
+      "Coding (social sciences) (Heat:47)",
+      "Cryptography (Heat:40)",
+      "Implementation (Heat:38)"
+    ],
+    "strategy_summary": {
+      "AI_CORE": 4,
+      "BIO_REVOLUTION": 12,
+      "NEXT_COMPUTING": 8
+    }
+  },
+  "items": [
+    {
+      "title": "Exploring Large Language Model‐Based Intelligent Agents: Definitions, Methods, and Prospects",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
+      "metrics": {
+        "citations": 37,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2401.03428",
+      "reason": "Velocity: 37 citations",
+      "publication_date": "2026-07-24"
+    },
+    {
+      "title": "Phylogenomics Illuminates the Evolutionary History of Wild Silkmoths in Space and Time (Lepidoptera: Saturniidae)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Systematic Biology",
+      "metrics": {
+        "citations": 20,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.biorxiv.org/content/biorxiv/early/2022/04/04/2022.03.29.486224.full.pdf",
+      "reason": "Velocity: 20 citations",
+      "publication_date": "2026-07-24"
+    },
+    {
+      "title": "Post-hoc Interpretability of LDA on Hyperspectral Imagery: SHAP Attributions, Counterfactual Topic Flips, and LLM-judge Alignment under Token-Mass-Dispersion Asymmetry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21504113",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-07-24"
+    },
+    {
+      "title": "同构、牢固度与拓扑锚定 智能与物理实在的统一框架",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 14,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21523109",
+      "reason": "Velocity: 14 citations",
+      "publication_date": "2026-07-24"
+    },
+    {
+      "title": "From Nothing to Fold: A Premise-Free, Parameter-Free and Machine-Closed Foundation for Smithian Fold Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21515629",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-07-23"
+    },
+    {
+      "title": "Neural dynamics for working memory and evidence integration during olfactory navigation in Drosophila",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Communications",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1038/s41467-026-75945-2",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-07-25"
+    },
+    {
+      "title": "The Quantum Fold Machine - An Exact, Parameter-Free and Machine-Closed Derivation of Reversible and Quantum Computation from Smithian Fold Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://github.com/MettaMazza/ernos-labs-sft-platform",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-07-23"
+    },
+    {
+      "title": "Direct lipid interactions control SARS-CoV-2 M protein conformational dynamics and virus assembly",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Communications",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1038/s41467-026-75229-9",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-07-23"
+    },
+    {
+      "title": "From Fold to Physics: An Exact, Parameter-Free and Machine-Closed Reconstruction of Physical Science from Smithian Fold Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21520881",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-07-24"
+    },
+    {
+      "title": "From Fold to Mathematics: An Exact, Parameter-Free and Machine-Closed Derivation of Mathematical Foundations from Smithian Fold Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21516146",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-07-23"
+    },
+    {
+      "title": "同构牢固度与拓扑锚定系列2:适用窗与逻辑边界 ——从土壤条件到失效点:物理定律边界的拓扑解释",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21525490",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-07-24"
+    },
+    {
+      "title": "From Distinction to Information: An Exact, Parameter-Free and Machine-Closed Derivation of Information Science from Smithian Fold Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://github.com/MettaMazza/ernos-labs-sft-platform",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-07-23"
+    },
+    {
+      "title": "Single-cell chromatin state transitions during epigenetic memory formation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Science Advances",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1126/sciadv.aeb0060",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-07-23"
+    },
+    {
+      "title": "Epigenetic and 3D genome reprogramming during the aging of the human hippocampus",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Science",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.biorxiv.org/content/biorxiv/early/2024/10/17/2024.10.14.618338.full.pdf",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-07-23"
+    },
+    {
+      "title": "Vacuum Mechanics: How the Quaternion Finally Made the Standard Model Make Sense",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19234951",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2029-03-26"
+    },
+    {
+      "title": "From Distinction to Information: An Exact, Parameter-Free and Machine-Closed Derivation of Information Science from Smithian Fold Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21536202",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-07-24"
+    },
+    {
+      "title": "From Fold to Life: An Exact, Zero-Parameter and Machine-Closed Foundational Reconstruction of Biology and Life Sciences from Smithian Fold Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21630203",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-07-27"
+    },
+    {
+      "title": "Inter-instance similarity modeling for contrastive learning",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Pattern Recognition",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://arxiv.org/pdf/2306.12243",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-07-24"
+    },
+    {
+      "title": "Single-cell analysis of the epigenome and 3D chromatin architecture in the human retina",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Science Advances",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1126/sciadv.adv9162",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-07-23"
+    },
+    {
+      "title": "RETROFIT: Reference-free deconvolution of cell-type mixtures in spatial transcriptomics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Communications",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1038/s41467-026-74928-7",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-07-24"
+    }
+  ]
+}
