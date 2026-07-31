@@ -1,0 +1,277 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-01T03:16:11.342Z",
+    "total_captured": 17,
+    "TRENDING_DIRECTIONS": [
+      "Selection (genetic algorithm) (Heat:49)",
+      "Context (archaeology) (Heat:43)",
+      "Gene (Heat:40)",
+      "Implementation (Heat:39)",
+      "Natural language (Heat:39)"
+    ],
+    "strategy_summary": {
+      "AI_CORE": 3,
+      "BIO_REVOLUTION": 11,
+      "NEXT_COMPUTING": 5
+    }
+  },
+  "items": [
+    {
+      "title": "A global view of human centromere variation and evolution",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1038/s41586-026-10841-9",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-07-29"
+    },
+    {
+      "title": "Exploring Large Language Model‐Based Intelligent Agents: Definitions, Methods, and Prospects",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Wiley Interdisciplinary Reviews Data Mining and Knowledge Discovery",
+      "metrics": {
+        "citations": 38,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2401.03428",
+      "reason": "Velocity: 38 citations",
+      "publication_date": "2026-07-24"
+    },
+    {
+      "title": "Phylogenomics Illuminates the Evolutionary History of Wild Silkmoths in Space and Time (Lepidoptera: Saturniidae)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Systematic Biology",
+      "metrics": {
+        "citations": 20,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.biorxiv.org/content/biorxiv/early/2022/04/04/2022.03.29.486224.full.pdf",
+      "reason": "Velocity: 20 citations",
+      "publication_date": "2026-07-24"
+    },
+    {
+      "title": "同构、牢固度与拓扑锚定 智能与物理实在的统一框架",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21523109",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-07-24"
+    },
+    {
+      "title": "Tuning Parameter Selection in Econometrics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Political Economy Microeconomics",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2405.03021",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-07-28"
+    },
+    {
+      "title": "Post-hoc Interpretability of LDA on Hyperspectral Imagery: SHAP Attributions, Counterfactual Topic Flips, and LLM-judge Alignment under Token-Mass-Dispersion Asymmetry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21504113",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-07-24"
+    },
+    {
+      "title": "Artian's A1-CHSH Spinor-Character Theorem: The pi/8 Clock Projection, T-Gate Magic-State Overlap, and Symmetric Tsirelson Optimum",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://quantumtraction.org/doi-map/#record-19979595",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-07-29"
+    },
+    {
+      "title": "Beckers Collection (Aachen) - Ushabti UB-014: Ushabti of Hori I (Tell Basta)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19222672",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-07-30"
+    },
+    {
+      "title": "Neural dynamics for working memory and evidence integration during olfactory navigation in Drosophila",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Communications",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1038/s41467-026-75945-2",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-07-25"
+    },
+    {
+      "title": "From Fold to Physics: An Exact, Parameter-Free and Machine-Closed Reconstruction of Physical Science from Smithian Fold Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21520881",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-07-24"
+    },
+    {
+      "title": "Pattern-Matching Failures in LLM Refusal Detection: A Case Study in Detector Reliability",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Figshare",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.6084/m9.figshare.33110315",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-07-30"
+    },
+    {
+      "title": "同构牢固度与拓扑锚定系列2:适用窗与逻辑边界 ——从土壤条件到失效点:物理定律边界的拓扑解释",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21525490",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-07-24"
+    },
+    {
+      "title": "Beckers Collection (Aachen) - Ushabti UB-006: Usurped wooden ushabti with inscription",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18245544",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-07-30"
+    },
+    {
+      "title": "Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Intelligent Systems and Technology",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2402.01749",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-07-29"
+    },
+    {
+      "title": "Tool-Assisted Sycophancy: How Preference Optimization Can Invert Auxiliary Tools into Confirmation Engines",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21642311",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-07-28"
+    },
+    {
+      "title": "A genome-wide CRISPR screen in human prostate cancer cells reveals drivers of macrophage-mediated cell killing and positions AR as a tumor-intrinsic immunomodulator",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Oncogene",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.biorxiv.org/content/biorxiv/early/2023/06/07/2023.06.06.543873.full.pdf",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-07-28"
+    },
+    {
+      "title": "A Machine-Verified Separation of the Quantum and Almost-Quantum Sets in the 3322 Bell Scenario",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21534675",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-07-26"
+    }
+  ]
+}
