@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-07-31T10:13:43.293Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "TECH_ACCELERATOR": 1,
+      "VIRAL_UNCATEGORIZED": 5,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "stars": 304,
+      "full_text": "FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架）",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer"
+    },
+    {
+      "name": "bashalarmistalt/decimen-optical-transfer",
+      "stars": 267,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer"
+    },
+    {
+      "name": "codermyxiaoc/sub2api-guardian",
+      "stars": 214,
+      "full_text": "sub2api-guardian",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/codermyxiaoc/sub2api-guardian"
+    },
+    {
+      "name": "greenflamecloak/RoOverlay-Roblox-FPS-Counter",
+      "stars": 118,
+      "full_text": "Roblox FPS Counter and performance overlay for Windows. Monitor FPS, ping, CPU, GPU and RAM usage while playing Roblox games with a lightweight gaming overlay.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/greenflamecloak/RoOverlay-Roblox-FPS-Counter"
+    }
+  ]
+}
