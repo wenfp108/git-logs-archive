@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-02T03:00:17.742Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 23,
+      "TECH_ACCELERATOR": 2,
+      "KNOWLEDGE_BASE": 2,
+      "TALENT_GROWTH": 2
+    }
+  },
+  "items": [
+    {
+      "name": "WilonityDev/WilonityLoader",
+      "stars": 532,
+      "full_text": "Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 20+ games (RUST, CS2, Valorant, Tarkov, Warzone, R6S, ArcRiders, Apex, Roblox, Meccha Chameleon). Kernel spoof, HWID cleaner, AC bypass (EAC/BE/VG). ESP, aimbot, WH, wallhack, triggerbot, radar, no recoil, silent aim, chams, skin changer, unlock all, no spread.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/WilonityDev/WilonityLoader"
+    },
+    {
+      "name": "0xwilliamortiz/ratchet",
+      "stars": 406,
+      "full_text": "Your agent reads the rules. This checks whether it followed them.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/0xwilliamortiz/ratchet"
+    },
+    {
+      "name": "Packets/tew",
+      "stars": 341,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Packets/tew"
+    },
+    {
+      "name": "deedy/qr-data-transfer",
+      "stars": 309,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/deedy/qr-data-transfer"
+    },
+    {
+      "name": "s1dashu/animated-voiceover",
+      "stars": 165,
+      "full_text": "Create animated voiceover videos with reusable scripting, visual direction, voice consistency, and CLI-based generation workflows.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/s1dashu/animated-voiceover"
+    },
+    {
+      "name": "Anionex/codex-deepseek-vision",
+      "stars": 101,
+      "full_text": "一个可以让像deepseek-v4这样的纯文本模型, 在codex中无障碍调用内置看图工具(view_image)的方案，附为纯文本llm设计的视力工具包。",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Anionex/codex-deepseek-vision"
+    },
+    {
+      "name": "liangnjupt/VisTouch",
+      "stars": 88,
+      "full_text": "A large-scale synchronized vision–touch–audio dataset of robotic sliding contact",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/liangnjupt/VisTouch"
+    }
+  ]
+}
