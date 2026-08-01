@@ -1,0 +1,262 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-01T16:11:13.374Z",
+    "total_captured": 16,
+    "TRENDING_DIRECTIONS": [
+      "Constant (computer programming) (Heat:31)",
+      "Quantum (Heat:27)",
+      "Gene (Heat:25)",
+      "Reliability (semiconductor) (Heat:24)",
+      "Documentation (Heat:23)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 10,
+      "NEXT_COMPUTING": 7,
+      "AI_CORE": 1
+    }
+  },
+  "items": [
+    {
+      "title": "A global view of human centromere variation and evolution",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1038/s41586-026-10841-9",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-07-29"
+    },
+    {
+      "title": "Tuning Parameter Selection in Econometrics",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Political Economy Microeconomics",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2405.03021",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-07-28"
+    },
+    {
+      "title": "Artian's A1-CHSH Spinor-Character Theorem: The pi/8 Clock Projection, T-Gate Magic-State Overlap, and Symmetric Tsirelson Optimum",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://quantumtraction.org/doi-map/#record-19979595",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-07-29"
+    },
+    {
+      "title": "Beckers Collection (Aachen) - Ushabti UB-014: Ushabti of Hori I (Tell Basta)",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19222672",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-07-30"
+    },
+    {
+      "title": "Neural dynamics for working memory and evidence integration during olfactory navigation in Drosophila",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Communications",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1038/s41467-026-75945-2",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-07-25"
+    },
+    {
+      "title": "Pattern-Matching Failures in LLM Refusal Detection: A Case Study in Detector Reliability",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Figshare",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.6084/m9.figshare.33110315",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-07-30"
+    },
+    {
+      "title": "Beckers Collection (Aachen) - Ushabti UB-006: Usurped wooden ushabti with inscription",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18245544",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-07-30"
+    },
+    {
+      "title": "Towards Urban General Intelligence: A Review and Outlook of Urban Foundation Models",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Transactions on Intelligent Systems and Technology",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2402.01749",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-07-29"
+    },
+    {
+      "title": "Tool-Assisted Sycophancy: How Preference Optimization Can Invert Auxiliary Tools into Confirmation Engines",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21642311",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-07-28"
+    },
+    {
+      "title": "A genome-wide CRISPR screen in human prostate cancer cells reveals drivers of macrophage-mediated cell killing and positions AR as a tumor-intrinsic immunomodulator",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Oncogene",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.biorxiv.org/content/biorxiv/early/2023/06/07/2023.06.06.543873.full.pdf",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-07-28"
+    },
+    {
+      "title": "A Machine-Verified Separation of the Quantum and Almost-Quantum Sets in the 3322 Bell Scenario",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21534675",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-07-26"
+    },
+    {
+      "title": "Vacuum Mechanics: How the Quaternion Finally Made the Standard Model Make Sense",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19234951",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2029-03-26"
+    },
+    {
+      "title": "From Fold to Life: An Exact, Zero-Parameter and Machine-Closed Foundational Reconstruction of Biology and Life Sciences from Smithian Fold Theory",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://github.com/MettaMazza/ernos-labs-sft-platform",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-07-27"
+    },
+    {
+      "title": "The Almost-Quantum Window of the Tilted I3322 Family",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21603712",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-07-26"
+    },
+    {
+      "title": "Programmed Delayed Splicing: A Mechanism for Timed Inflammatory Gene Expression 2267628",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "The Journal of Immunology",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.biorxiv.org/content/biorxiv/early/2018/10/15/443796.full.pdf",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-07-28"
+    },
+    {
+      "title": "Biological Versus Technical Reliability of Epigenetic Clocks and Implications for Disease Prognosis and Intervention Response",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Aging Cell",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1111/acel.70635",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-07-29"
+    }
+  ]
+}
