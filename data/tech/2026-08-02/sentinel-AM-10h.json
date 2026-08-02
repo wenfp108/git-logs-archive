@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-02T10:12:15.145Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "VIRAL_UNCATEGORIZED": 11,
+      "TECH_ACCELERATOR": 2,
+      "TALENT_GROWTH": 3,
+      "CAREER_MOVES": 1,
+      "KNOWLEDGE_BASE": 2
+    }
+  },
+  "items": [
+    {
+      "name": "x4gKing/3x-ui-multi",
+      "stars": 217,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/x4gKing/3x-ui-multi"
+    },
+    {
+      "name": "openai/ten-proofs",
+      "stars": 212,
+      "full_text": "Lean certificates accompanying proofs in mathematics and theoretical computer science",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/openai/ten-proofs"
+    },
+    {
+      "name": "Anionex/codex-deepseek-vision",
+      "stars": 128,
+      "full_text": "一个可以让像deepseek-v4这样的纯文本模型, 在codex中无障碍调用内置看图工具(view_image)的方案，附为纯文本llm设计的视力工具包。",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Anionex/codex-deepseek-vision"
+    },
+    {
+      "name": "juxhinr/bindwidth",
+      "stars": 56,
+      "full_text": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/juxhinr/bindwidth"
+    }
+  ]
+}
