@@ -1,0 +1,118 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-03T03:01:39.269Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 5,
+      "TECH_ACCELERATOR": 5,
+      "VIRAL_UNCATEGORIZED": 22,
+      "CAREER_MOVES": 1,
+      "TALENT_GROWTH": 3,
+      "KNOWLEDGE_BASE": 3,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "DannyMac180/sol-advisor",
+      "stars": 542,
+      "full_text": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/DannyMac180/sol-advisor"
+    },
+    {
+      "name": "0xwilliamortiz/humanizer-cli",
+      "stars": 462,
+      "full_text": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/0xwilliamortiz/humanizer-cli"
+    },
+    {
+      "name": "x4gKing/3x-ui-multi",
+      "stars": 377,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/x4gKing/3x-ui-multi"
+    },
+    {
+      "name": "openai/ten-proofs",
+      "stars": 321,
+      "full_text": "Lean certificates accompanying proofs in mathematics and theoretical computer science",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/openai/ten-proofs"
+    },
+    {
+      "name": "WilonityBooster/Wilonity-GameFPS-Booster",
+      "stars": 253,
+      "full_text": "GameFPS Booster – ultimate FPS optimizer for gamers. Boost FPS, reduce input lag, eliminate stutter in CS2, Valorant, Rust, Apex, Fortnite, Warzone, R6S, Tarkov, and more. Advanced CPU/GPU tweaks, process priority, registry optimization, power plan, and real-time performance tuning. Windows 10/11 x64.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/WilonityBooster/Wilonity-GameFPS-Booster"
+    },
+    {
+      "name": "brookfacehe2421/flashloan-scalper-bot",
+      "stars": 213,
+      "full_text": "Quick profit scalper using flashloan mechanics",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/brookfacehe2421/flashloan-scalper-bot"
+    },
+    {
+      "name": "Anionex/codex-vision-proxy",
+      "stars": 196,
+      "full_text": "让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-only models call Codex's built-in view_image seamlessly, plus a vision toolkit&skill designed for text-only LLMs.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Anionex/codex-vision-proxy"
+    },
+    {
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "stars": 164,
+      "full_text": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c"
+    },
+    {
+      "name": "juxhinr/bindwidth",
+      "stars": 91,
+      "full_text": "Evidence-aware on-prem LLM inference sizing and TCO calculator",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/juxhinr/bindwidth"
+    },
+    {
+      "name": "programmersd21/wallr",
+      "stars": 41,
+      "full_text": "🎨 GPU-accelerated animated wallpaper engine for Wayland",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/programmersd21/wallr"
+    }
+  ]
+}
