@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-03T22:26:39.700Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "TECH_ACCELERATOR": 4,
+      "TALENT_GROWTH": 1,
+      "VIRAL_UNCATEGORIZED": 25,
+      "CODE_LEVERAGE": 2,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "thebuggeddev/anatomy",
+      "stars": 607,
+      "full_text": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/thebuggeddev/anatomy"
+    },
+    {
+      "name": "WilonityBooster/Wilonity-GameFPS-Booster",
+      "stars": 253,
+      "full_text": "GameFPS Booster – ultimate FPS optimizer for gamers. Boost FPS, reduce input lag, eliminate stutter in CS2, Valorant, Rust, Apex, Fortnite, Warzone, R6S, Tarkov, and more. Advanced CPU/GPU tweaks, process priority, registry optimization, power plan, and real-time performance tuning. Windows 10/11 x64.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/WilonityBooster/Wilonity-GameFPS-Booster"
+    },
+    {
+      "name": "patchy631/time-to-first-token",
+      "stars": 145,
+      "full_text": "A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization. vLLM, SGLang, quantization, speculative decoding, benchmarking.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/patchy631/time-to-first-token"
+    },
+    {
+      "name": "alikon-art/DeterminFlow",
+      "stars": 103,
+      "full_text": "A production-oriented AI workflow runtime for building, validating, recovering, and shipping complex AI workflows as dependable services. 面向生产的 AI 工作流运行时：快速开发、验证和恢复复杂 AI 工作流，并将其稳定交付为服务。",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alikon-art/DeterminFlow"
+    },
+    {
+      "name": "BruceLanLan/sol-luna-engineering-workflow",
+      "stars": 91,
+      "full_text": "Luna-first Codex workflow: Luna Max by default, parallel Luna workers, and Sol Advisor only for genuinely difficult decisions.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BruceLanLan/sol-luna-engineering-workflow"
+    },
+    {
+      "name": "drpwchen/lecture-to-notes",
+      "stars": 49,
+      "full_text": "Lecture recordings → structured grounded notes + a synced HTML viewer: video, timestamped transcript and curated summary on one page. Local GPU pipeline (Whisper ASR · slide extraction · OCR · VLM signals · capture-time alignment). Claude Code skill + plain CLI.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/drpwchen/lecture-to-notes"
+    },
+    {
+      "name": "isabelpapaya/MCP-Server-Lighter",
+      "stars": 45,
+      "full_text": "MCP server for Lighter — a Model Context Protocol server that lets Claude, Cursor and Cline query Lighter (lighter.xyz) volume, points, rank and airdrop eligibility in natural language. Read-only — public endpoints only, no keys. Unofficial community project, not affiliated with Lighter.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/isabelpapaya/MCP-Server-Lighter"
+    }
+  ]
+}
