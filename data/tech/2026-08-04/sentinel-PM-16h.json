@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-04T16:27:55.118Z",
+    "session": "PM",
+    "trend_summary": {
+      "TALENT_GROWTH": 3,
+      "KNOWLEDGE_BASE": 4,
+      "VIRAL_GIANT": 3,
+      "VIRAL_UNCATEGORIZED": 34,
+      "CODE_LEVERAGE": 1,
+      "TECH_ACCELERATOR": 5,
+      "CAREER_MOVES": 3
+    }
+  },
+  "items": [
+    {
+      "name": "MarcosSete/awesome-free-ai-course-notes",
+      "stars": 268,
+      "full_text": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+      "tags": [
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes"
+    },
+    {
+      "name": "kaomei/stickman-video-director",
+      "stars": 220,
+      "full_text": "Turn copy into rich one-minute Gemini Omni Flash stickman video prompt packages.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/kaomei/stickman-video-director"
+    },
+    {
+      "name": "joeseesun/qiaomu-seo",
+      "stars": 207,
+      "full_text": "Audit, diagnose, research, plan, implement, experiment on, and verify website SEO across Google, Bing, and AI-search surfaces. Use for technical SEO, ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/joeseesun/qiaomu-seo"
+    },
+    {
+      "name": "Mr-funny/hbg-classical-poem-silk-video",
+      "stars": 99,
+      "full_text": "Agent Skill for turning Chinese classical poems into vertical Chinese-art videos with ImageGen stills, Docker I2V, calligraphy captions, retained ambience, BGM and final MP4 QA.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Mr-funny/hbg-classical-poem-silk-video"
+    },
+    {
+      "name": "edopandoyo/wilayah-indonesia-api",
+      "stars": 61,
+      "full_text": "Layanan Open REST API & Data Geospasial Boundaries (GeoJSON, Logo MinIO Storage) Wilayah Administrasi Indonesia (Provinsi, Kab/Kota, Kecamatan, Kelurahan/Desa) berbasis NestJS, PostgreSQL & Docker.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/edopandoyo/wilayah-indonesia-api"
+    },
+    {
+      "name": "lucaszimmer04/arbradar-market-opportunity-hub",
+      "stars": 50,
+      "full_text": "ArbRadar is a browser-based investment research tool for tracking personal arbitrage opportunities across LOF, ETF, and event-driven strategies, with a hosted build and local repository workflow.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lucaszimmer04/arbradar-market-opportunity-hub"
+    },
+    {
+      "name": "clarar71/avira-internet-security-loader",
+      "stars": 50,
+      "full_text": "Windows 10/11 x64 loader and update utility for staging the Avira Internet Security 2026 desktop suite, retrieving installer packages, applying available updates, and starting the installation process.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/clarar71/avira-internet-security-loader"
+    },
+    {
+      "name": "brunocooper39/roblox-mod-menu-script-pc",
+      "stars": 49,
+      "full_text": "Desktop-oriented Roblox script executor landing project for 64-bit Windows 10 and Windows 11, with Lua/script execution messaging, script hub browsing, and a streamlined 2026 interface. Free and no key required.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/brunocooper39/roblox-mod-menu-script-pc"
+    },
+    {
+      "name": "nathandubois966/bevy-ai-game-dev-test",
+      "stars": 49,
+      "full_text": "An unreleased 2026 game development testbed built with Rust and the Bevy Game Engine, exploring how AI assistance can support the process of creating cross-platform games and managing project configuration.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nathandubois966/bevy-ai-game-dev-test"
+    }
+  ]
+}
