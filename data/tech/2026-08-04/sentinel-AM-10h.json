@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-04T10:00:24.594Z",
+    "session": "AM",
+    "trend_summary": {
+      "TALENT_GROWTH": 3,
+      "KNOWLEDGE_BASE": 4,
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 37,
+      "CAREER_MOVES": 3,
+      "TECH_ACCELERATOR": 5
+    }
+  },
+  "items": [
+    {
+      "name": "MarcosSete/awesome-free-ai-course-notes",
+      "stars": 201,
+      "full_text": "A curated collection of machine learning and AI lecture notes from the world's leading universities.  This repository gives you access to the same lecture notes used by students at top institutions such as MIT, helping you learn from the very best educational resources available.",
+      "tags": [
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MarcosSete/awesome-free-ai-course-notes"
+    },
+    {
+      "name": "lucaszimmer04/arbradar-market-opportunity-hub",
+      "stars": 50,
+      "full_text": "ArbRadar is a browser-based investment research tool for tracking personal arbitrage opportunities across LOF, ETF, and event-driven strategies, with a hosted build and local repository workflow.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lucaszimmer04/arbradar-market-opportunity-hub"
+    },
+    {
+      "name": "clarar71/avira-internet-security-loader",
+      "stars": 50,
+      "full_text": "Windows 10/11 x64 loader and update utility for staging the Avira Internet Security 2026 desktop suite, retrieving installer packages, applying available updates, and starting the installation process.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/clarar71/avira-internet-security-loader"
+    },
+    {
+      "name": "brunocooper39/roblox-mod-menu-script-pc",
+      "stars": 49,
+      "full_text": "Desktop-oriented Roblox script executor landing project for 64-bit Windows 10 and Windows 11, with Lua/script execution messaging, script hub browsing, and a streamlined 2026 interface. Free and no key required.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/brunocooper39/roblox-mod-menu-script-pc"
+    },
+    {
+      "name": "nathandubois966/bevy-ai-game-dev-test",
+      "stars": 49,
+      "full_text": "An unreleased 2026 game development testbed built with Rust and the Bevy Game Engine, exploring how AI assistance can support the process of creating cross-platform games and managing project configuration.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nathandubois966/bevy-ai-game-dev-test"
+    },
+    {
+      "name": "pierre-vogel72/customer-sentiment-streamlit",
+      "stars": 48,
+      "full_text": "Streamlit-based Customer Sentiment Analyzer for evaluating standalone text and CSV datasets with a pre-trained Transformer model. Includes setup guidance, CSV formatting details, application launch instructions, troubleshooting, and update information for 2026.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/pierre-vogel72/customer-sentiment-streamlit"
+    }
+  ]
+}
