@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-05T09:59:47.895Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 37,
+      "CORE_PRAGMATISM": 1,
+      "KNOWLEDGE_BASE": 2,
+      "TECH_ACCELERATOR": 3,
+      "TALENT_GROWTH": 4,
+      "CAREER_MOVES": 2
+    }
+  },
+  "items": [
+    {
+      "name": "Packets/Vanta",
+      "stars": 344,
+      "full_text": "A two-faction battle royale. Own what you earn. The $VANTA war begins 2026. ",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Packets/Vanta"
+    },
+    {
+      "name": "AMAP-ML/LongHorizon-Harness",
+      "stars": 192,
+      "full_text": "The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-context execution, durable verified state, independent auditing, recoverable progress, and native Claude Code / Codex / OpenClaw integration.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AMAP-ML/LongHorizon-Harness"
+    },
+    {
+      "name": "cristicretu/diri",
+      "stars": 105,
+      "full_text": "Native macOS orchestrator for coding agents — run Claude Code, Codex, Cursor, Gemini and shells in parallel across git worktrees and remote hosts",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cristicretu/diri"
+    },
+    {
+      "name": "h9-tec/llm-architecture-ar",
+      "stars": 53,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/h9-tec/llm-architecture-ar"
+    },
+    {
+      "name": "lmaier56/arbradar-finance-hub",
+      "stars": 48,
+      "full_text": "Browser-centric financial analytical suite designed to help investors spot and evaluate personal arbitrage opportunities across LOF, ETF, and event-focused strategies in 2026. Features live web access, source deployment, and custom configurations.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lmaier56/arbradar-finance-hub"
+    },
+    {
+      "name": "milan-collet418/asset-ops-dispatch-platform",
+      "stars": 48,
+      "full_text": "Browser-based master dispatch control center and logistics platform for managing AJG and GH route logistics, tracking fleet movements, and streamlining transport operations.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/milan-collet418/asset-ops-dispatch-platform"
+    }
+  ]
+}
