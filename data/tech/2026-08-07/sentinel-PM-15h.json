@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-07T15:05:37.235Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 12,
+      "TECH_ACCELERATOR": 4,
+      "TALENT_GROWTH": 3,
+      "KNOWLEDGE_BASE": 1,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "oliverb-io1902e8/agent-skills-collection",
+      "stars": 152,
+      "full_text": "Curated collection of modular agent skills for LLM-based agents",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "TALENT_GROWTH",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/oliverb-io1902e8/agent-skills-collection"
+    },
+    {
+      "name": "eternityspring/shuohao-skills",
+      "stars": 111,
+      "full_text": "给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人物画像、卡通形象提示词、音色提示词、三视图。 | Skills for AI coding agents, working in both Claude Code and codex. novel-characters turns a novel into a character bible: profiles, cartoon-design prompts, voice prompts and turnaround sheets.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/eternityspring/shuohao-skills"
+    },
+    {
+      "name": "dmitry-wanghq1996k3/FC26-Mod-Manager",
+      "stars": 51,
+      "full_text": "Complete mod management for EA Sports FC 26. Drag & drop .fifamod, load order, conflict detection, BepInEx, Live Editor, Players Editor, Teams Editor, Database Editor.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dmitry-wanghq1996k3/FC26-Mod-Manager"
+    },
+    {
+      "name": "felixb-io1993r0/FC-FIFA-Mod-Manager",
+      "stars": 51,
+      "full_text": "Complete mod management for EA Sports FC 26, FC 25, FC 24 & FIFA 19-23. Drag & drop .fifamod, load order, conflict detection, BepInEx, Live Editor, Players Editor, Teams Editor, Database Editor.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/felixb-io1993r0/FC-FIFA-Mod-Manager"
+    },
+    {
+      "name": "MengTo/sketchbook",
+      "stars": 50,
+      "full_text": "A page-flipping sketchbook of Singapore. One static HTML file: drag to turn the page, drag the magnifier across it.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MengTo/sketchbook"
+    }
+  ]
+}
