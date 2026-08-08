@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-08T14:41:25.162Z",
+    "total_captured": 23,
+    "TRENDING_DIRECTIONS": [
+      "Quantum (Heat:162)",
+      "Upper and lower bounds (Heat:109)",
+      "Gene (Heat:87)",
+      "Position (finance) (Heat:79)",
+      "Axiom (Heat:69)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 9,
+      "BIO_REVOLUTION": 14,
+      "STRATEGIC_ENERGY": 1,
+      "AI_CORE": 3
+    }
+  },
+  "items": [
+    {
+      "title": "Observation as Access: A Quantum Traction Theory Dissolution of the Measurement Problem",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 42,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20114403",
+      "reason": "Velocity: 42 citations",
+      "publication_date": "2026-08-01"
+    },
+    {
+      "title": "igraph 1.0 enables fast and robust network analysis across programming languages",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "PLoS ONE",
+      "metrics": {
+        "citations": 35,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1371/journal.pone.0355108",
+      "reason": "Velocity: 35 citations",
+      "publication_date": "2026-08-04"
+    },
+    {
+      "title": "Artian A2 Endurance and the Einstein-Field Infrared Theorem",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 27,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20763263",
+      "reason": "Velocity: 27 citations",
+      "publication_date": "2026-08-04"
+    },
+    {
+      "title": "Artian Action-Rotor Reference Framework: Hamilton's Stationary-Action Recovery, the Real-J Path Sum, and the Capacity/Canonical Action Ledger",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 26,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20098143",
+      "reason": "Velocity: 26 citations",
+      "publication_date": "2026-08-03"
+    },
+    {
+      "title": "Artian's Entropy and Second-Law Reference Theorem: Completed-Event Ledger Growth, Typed Capacity Geometry, Anchored Modular Charge, Clausius Production, Surface Entropy, and Page-Capacity Consequences",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 24,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20045306",
+      "reason": "Velocity: 24 citations",
+      "publication_date": "2026-08-05"
+    },
+    {
+      "title": "Dark Energy as Residual Vacuum Free Energy: A Thermodynamic Bound on the Cosmological Constant",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 23,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19036235",
+      "reason": "Velocity: 23 citations",
+      "publication_date": "2026-08-02"
+    },
+    {
+      "title": "Mapping enhancer–gene regulatory interactions from single-cell data",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Genetics",
+      "metrics": {
+        "citations": 22,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.nature.com/articles/s41588-026-02695-8.pdf",
+      "reason": "Velocity: 22 citations",
+      "publication_date": "2026-08-03"
+    },
+    {
+      "title": "Artian Rotor-to-Wavefunction Projection Theorem: A Conditional QTT Recovery of the Schrödinger Equation, the A6 Bounded-Generator Gate, and the Macroscopic-Ceiling No-Go",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20119662",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-08-03"
+    },
+    {
+      "title": "Artian A2 Blind Tabletop Gravity Tests",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20772326",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-08-03"
+    },
+    {
+      "title": "GHT-SELEX demonstrates unexpectedly high intrinsic sequence specificity and complex DNA binding of many human transcription factors",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Methods",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.nature.com/articles/s41592-026-03177-9.pdf",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-08-05"
+    },
+    {
+      "title": "Diversity and evolution of chromatin regulatory states across eukaryotes",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Genetics",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.biorxiv.org/content/biorxiv/early/2025/03/18/2025.03.17.643675.full.pdf",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-08-03"
+    },
+    {
+      "title": "Ontological Pluralism Without Degrees of Being",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21779099",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-08-05"
+    },
+    {
+      "title": "Translation of Regular Expression with Lookahead into Finite State Automaton",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "arXiv (Cornell University)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://arxiv.org/pdf/2608.03167",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-08-04"
+    },
+    {
+      "title": "Learning Without Weights: a Geometric Learner that Needs Less Data, Predicts Without Training, and Cannot Forget",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21612831",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-08-06"
+    },
+    {
+      "title": "QG-CRM: Ultraviolet Completion of the Curvature Relaxation Model via Quantum Quadratic Gravity",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19352448",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-08-02"
+    },
+    {
+      "title": "The Lost Innovators Hypothesis: A Single-Case Documentation of AI-Mediated Theoretical Inquiry by a Non-Credentialed Author",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20721730",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-08-05"
+    },
+    {
+      "title": "Technical Supplement Collection for A Contract Calculus for Governed Analytical Transformation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21752681",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-08-01"
+    },
+    {
+      "title": "CALIPERS: Cell cycle-aware live imaging for phenotyping experiments and regeneration studies",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Communications",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1038/s41467-026-76144-9",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-08-01"
+    },
+    {
+      "title": "Grounds, Frames, and Standing: The Absorbable and Irreducible Classes of Human Intervention in Agentic Work",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21563154",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-08-06"
+    },
+    {
+      "title": "TAK1 operates at the primary cilium in non-canonical TGFB/BMP signaling to control heart development",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "PLoS Biology",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3003902&type=printable",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-08-04"
+    }
+  ]
+}
