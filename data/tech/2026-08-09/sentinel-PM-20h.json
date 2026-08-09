@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-09T20:38:27.009Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 40,
+      "TECH_ACCELERATOR": 3,
+      "CAREER_MOVES": 7
+    }
+  },
+  "items": [
+    {
+      "name": "MengTo/kage",
+      "stars": 391,
+      "full_text": "An interactive five-chapter night walk through a Kyoto mountain temple, rendered live in Three.js.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MengTo/kage"
+    },
+    {
+      "name": "glade-coral5xuqt/Mev-Terminal",
+      "stars": 61,
+      "full_text": "This bot automatically finds and executes profitable arbitrage opportunities across multiple blockchain networks. It monitors price differences between Ethereum, BSC, Polygon, and Arbitrum, then executes trades when profitable opportunities are detected.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/glade-coral5xuqt/Mev-Terminal"
+    },
+    {
+      "name": "felixr1984/irl-vision-script-executor",
+      "stars": 50,
+      "full_text": "An efficient vision overlay system for PC gaming environments designed to enhance spatial perception and situational clarity. Offers dependable execution, streamlined configuration, and support for 2026 PC gaming setups.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CAREER_MOVES"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/felixr1984/irl-vision-script-executor"
+    },
+    {
+      "name": "lefebvredavid2001/3008-scripts-utility-hub",
+      "stars": 48,
+      "full_text": "A desktop-focused Windows utility for managing scripts in a popular Roblox survival game. Streamline feature toggles, automate updates, and organize keyless Lua script setups for 2026.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lefebvredavid2001/3008-scripts-utility-hub"
+    }
+  ]
+}
