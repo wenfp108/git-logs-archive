@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-11T14:56:34.548Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 27,
+      "TECH_ACCELERATOR": 6,
+      "KNOWLEDGE_BASE": 4,
+      "CAREER_MOVES": 1,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "SMNETSTUDIO/WeChat-AI",
+      "stars": 1084,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI"
+    },
+    {
+      "name": "Crimson-willow3w9ena/Mev-Terminal-Bot",
+      "stars": 83,
+      "full_text": "This bot automatically finds and executes profitable arbitrage opportunities across multiple blockchain networks. It monitors price differences between Ethereum, BSC, Polygon, and Arbitrum, then executes trades when profitable opportunities are detected.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Crimson-willow3w9ena/Mev-Terminal-Bot"
+    },
+    {
+      "name": "eagerwrenmey8308/UNISWAP-ARBITRAGE-BOT",
+      "stars": 82,
+      "full_text": "The bot detects a large swap in the mempool → buys earlier with priority gas → price rises → the user pays more → the bot sells and locks in 0.6–2.8% per cycle.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/eagerwrenmey8308/UNISWAP-ARBITRAGE-BOT"
+    },
+    {
+      "name": "lassejlv/gpui-starter",
+      "stars": 60,
+      "full_text": "A basic starter template for GPUI",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lassejlv/gpui-starter"
+    },
+    {
+      "name": "GongChang2020/ollama-gui-manager",
+      "stars": 59,
+      "full_text": "Desktop GUI for managing local Ollama models and proxy access. Built with Electron + Vue 3.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/GongChang2020/ollama-gui-manager"
+    },
+    {
+      "name": "meta-models/meta-oss-cookbook",
+      "stars": 43,
+      "full_text": "All recipes for oss models from Meta Inc.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/meta-models/meta-oss-cookbook"
+    },
+    {
+      "name": "leonk02/humen-vision-utility-loader",
+      "stars": 43,
+      "full_text": "A visual enhancement utility for Windows PC gaming. Render custom wall-detection interfaces and overlays across FPS and battle royale games on Windows 10 and 11.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/leonk02/humen-vision-utility-loader"
+    },
+    {
+      "name": "forcequitOS/bad_query",
+      "stars": 42,
+      "full_text": "Sandbox escape PoC for iOS 26 and 27",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/forcequitOS/bad_query"
+    }
+  ]
+}
