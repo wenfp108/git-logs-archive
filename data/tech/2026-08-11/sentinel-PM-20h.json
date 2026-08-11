@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-11T20:51:58.361Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 21,
+      "TECH_ACCELERATOR": 5,
+      "KNOWLEDGE_BASE": 3,
+      "CORE_PRAGMATISM": 1,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "SMNETSTUDIO/WeChat-AI",
+      "stars": 1330,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI"
+    },
+    {
+      "name": "gvzdv/claudish-to-english",
+      "stars": 267,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/gvzdv/claudish-to-english"
+    },
+    {
+      "name": "ayi-ai/nie-grassroots-logic",
+      "stars": 168,
+      "full_text": "聂·基层运行逻辑 · Agent Skill：基于聂辉华《基层中国的运行逻辑》的方法论工具箱（不含原书全文）",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ayi-ai/nie-grassroots-logic"
+    },
+    {
+      "name": "lassejlv/gpui-starter",
+      "stars": 63,
+      "full_text": "A basic starter template for GPUI",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lassejlv/gpui-starter"
+    },
+    {
+      "name": "forcequitOS/bad_query",
+      "stars": 63,
+      "full_text": "Sandbox escape PoC for iOS 26 and 27.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/forcequitOS/bad_query"
+    },
+    {
+      "name": "GongChang2020/ollama-gui-manager",
+      "stars": 62,
+      "full_text": "Desktop GUI for managing local Ollama models and proxy access. Built with Electron + Vue 3.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/GongChang2020/ollama-gui-manager"
+    },
+    {
+      "name": "CureJe/sedentary-reminder",
+      "stars": 54,
+      "full_text": "Stand Up Buddy is a lightweight desktop app for Windows and macOS that reminds you to take regular breaks. Animated characters appear with unique motions and sounds, encouraging you to stretch, move, and reduce discomfort from prolonged sitting.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CureJe/sedentary-reminder"
+    },
+    {
+      "name": "meta-models/meta-oss-cookbook",
+      "stars": 49,
+      "full_text": "All recipes for oss models from Meta Inc.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/meta-models/meta-oss-cookbook"
+    },
+    {
+      "name": "emilm2004/passper-excel-recovery-tool",
+      "stars": 44,
+      "full_text": "Desktop Windows application for recovering access to locked Excel spreadsheets, featuring offline decryption, hardware GPU acceleration, and automated session checkpoints.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/emilm2004/passper-excel-recovery-tool"
+    }
+  ]
+}
