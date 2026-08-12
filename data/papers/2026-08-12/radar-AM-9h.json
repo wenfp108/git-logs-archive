@@ -1,0 +1,297 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-12T09:23:25.216Z",
+    "total_captured": 18,
+    "TRENDING_DIRECTIONS": [
+      "Quantum (Heat:103)",
+      "Upper and lower bounds (Heat:80)",
+      "Position (finance) (Heat:71)",
+      "Consistency (knowledge bases) (Heat:56)",
+      "Order (exchange) (Heat:45)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 5,
+      "STRATEGIC_ENERGY": 1,
+      "BIO_REVOLUTION": 9,
+      "SPACE_DEFENSE": 1,
+      "AI_CORE": 5,
+      "PARADIGM_SHIFT": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Learning millisecond protein dynamics from what is missing in NMR spectra",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.biorxiv.org/content/biorxiv/early/2025/03/19/2025.03.19.642801.full.pdf",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-08-10"
+    },
+    {
+      "title": "Observation as Access: A Quantum Traction Theory Dissolution of the Measurement Problem",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 43,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20114403",
+      "reason": "Velocity: 43 citations",
+      "publication_date": "2026-08-08"
+    },
+    {
+      "title": "Artian's Entropy and Second-Law Reference Theorem: Completed-Event Ledger Growth, Typed Capacity Geometry, Anchored Modular Charge, Clausius Production, Surface Entropy, and Page-Capacity Consequences",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 24,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20045306",
+      "reason": "Velocity: 24 citations",
+      "publication_date": "2026-08-05"
+    },
+    {
+      "title": "Learning Without Weights: a Geometric Learner that Needs Less Data, Predicts Without Training, and Cannot Forget",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21612831",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-08-10"
+    },
+    {
+      "title": "Yangians of Lie Superalgebras",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.13140/rg.2.2.13724.45442",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-08-08"
+    },
+    {
+      "title": "The Möbius and Klein Transforms: Spectral Analysis on Non-Orientable Manifolds",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21532594",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-08-05"
+    },
+    {
+      "title": "Functional Stability Theory II: Chemical Stability and Autocatalytic Selection",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20130563",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-08-08"
+    },
+    {
+      "title": "Ontological Pluralism Without Degrees of Being",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21779099",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-08-05"
+    },
+    {
+      "title": "QG-CRM: Ultraviolet Completion of the Curvature Relaxation Model via Quantum Quadratic Gravity",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19352448",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-08-08"
+    },
+    {
+      "title": "GHT-SELEX demonstrates unexpectedly high intrinsic sequence specificity and complex DNA binding of many human transcription factors",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Methods",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.nature.com/articles/s41592-026-03177-9.pdf",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-08-05"
+    },
+    {
+      "title": "Why Reflection Should Be Shallow: Contractive Gains, Finite Optimal Depth, and the Rumination Regime — A Cost–Benefit Theory of Iterated Self-Revision, with a Capacity-Gated Crossover",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "SPACE_DEFENSE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21837215",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-08-07"
+    },
+    {
+      "title": "Artian's HVP Source-Access Reference Framework",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20732034",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-08-08"
+    },
+    {
+      "title": "Grounds, Frames, and Standing: The Absorbable and Irreducible Classes of Human Intervention in Agentic Work",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21563154",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-08-08"
+    },
+    {
+      "title": "An Epistemic-Content Taxonomy of Human Intervention in Agentic Collaboration",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21730478",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-08-08"
+    },
+    {
+      "title": "Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3837074",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-08-06"
+    },
+    {
+      "title": "The Lost Innovators Hypothesis: A Single-Case Documentation of AI-Mediated Theoretical Inquiry by a Non-Credentialed Author",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20721730",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-08-05"
+    },
+    {
+      "title": "Regime Has a Contract: Intervention, Observation, and the Data Foundation of Causal Identification",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21840854",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-08-07"
+    },
+    {
+      "title": "Text Generation: A Systematic Literature Review of Tasks, Evaluation, and Challenges",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Artificial Intelligence Research",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://jair.org/index.php/jair/article/download/22258/27352",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-08-06"
+    }
+  ]
+}
