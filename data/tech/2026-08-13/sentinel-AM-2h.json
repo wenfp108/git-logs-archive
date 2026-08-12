@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-13T02:54:21.824Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 5,
+      "KNOWLEDGE_BASE": 3,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 30,
+      "TALENT_GROWTH": 5,
+      "CORE_PRAGMATISM": 1,
+      "TECH_ACCELERATOR": 7
+    }
+  },
+  "items": [
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "stars": 1569,
+      "full_text": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover"
+    },
+    {
+      "name": "sohaibdevv/youtube-music",
+      "stars": 846,
+      "full_text": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/sohaibdevv/youtube-music"
+    },
+    {
+      "name": "shadcn-ui/chatbot-template",
+      "stars": 567,
+      "full_text": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/shadcn-ui/chatbot-template"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "stars": 516,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/milind-soni/OpenMausBot"
+    },
+    {
+      "name": "MSNightmare/ShieldBreak",
+      "stars": 356,
+      "full_text": "Windows Defender 0day vulnerability",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MSNightmare/ShieldBreak"
+    },
+    {
+      "name": "dmmulroy/anti-slop",
+      "stars": 223,
+      "full_text": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dmmulroy/anti-slop"
+    },
+    {
+      "name": "forcequitOS/bad_query",
+      "stars": 133,
+      "full_text": "Sandbox escape PoC for iOS 26 and 27.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/forcequitOS/bad_query"
+    },
+    {
+      "name": "CureJe/sedentary-reminder",
+      "stars": 102,
+      "full_text": "Stand Up Buddy is a lightweight desktop app for Windows and macOS that reminds you to take regular breaks. Animated characters appear with unique motions and sounds, encouraging you to stretch, move, and reduce discomfort from prolonged sitting.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/CureJe/sedentary-reminder"
+    },
+    {
+      "name": "siliconjungle/inkwell-webgpu-water",
+      "stars": 76,
+      "full_text": "Standalone raw WebGPU Tethys ocean, shoreline, and underwater sand renderer",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/siliconjungle/inkwell-webgpu-water"
+    },
+    {
+      "name": "lyramakesmusic/neuralese-leaker",
+      "stars": 70,
+      "full_text": "web app for chatting with llms on openrouter with leaked unabridged reasoning",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lyramakesmusic/neuralese-leaker"
+    },
+    {
+      "name": "lensback940701/Evidence-Bound-Press-Conference-Revision-Skill",
+      "stars": 62,
+      "full_text": "An evidence-bound academic revision skill for diagnosing and reducing defensive prose without weakening scholarly caution. It surfaces contributions, trims redundant caveats and process narration, preserves claim ceilings, evidence status, scope conditions and rival explanations, and supports auditable, tracked manuscript revision.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lensback940701/Evidence-Bound-Press-Conference-Revision-Skill"
+    },
+    {
+      "name": "scottmudge/ComfyUI_MinimaxH3HybridLoader",
+      "stars": 51,
+      "full_text": "A model hybridization loader to combine different layers/blocks of the fl2va and ref2va models",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/scottmudge/ComfyUI_MinimaxH3HybridLoader"
+    },
+    {
+      "name": "siliconjungle/inkwell-webgpu-sand",
+      "stars": 50,
+      "full_text": "A standalone raw WebGPU procedural sand and snow surface renderer for Inkwell.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/siliconjungle/inkwell-webgpu-sand"
+    },
+    {
+      "name": "xz1915/flavor-structure-analyzer",
+      "stars": 50,
+      "full_text": "Evidence-aware flavor state modeling, molecule matching, and interaction network skill for Codex.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/xz1915/flavor-structure-analyzer"
+    }
+  ]
+}
