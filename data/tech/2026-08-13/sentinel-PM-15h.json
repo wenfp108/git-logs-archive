@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-13T15:17:54.558Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "TALENT_GROWTH": 4,
+      "VIRAL_UNCATEGORIZED": 20,
+      "CODE_LEVERAGE": 4,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "dmmulroy/anti-slop",
+      "stars": 446,
+      "full_text": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dmmulroy/anti-slop"
+    },
+    {
+      "name": "Hisn00w/ASu-skills",
+      "stars": 340,
+      "full_text": "简历包装",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Hisn00w/ASu-skills"
+    },
+    {
+      "name": "RadishXN/run-abroad",
+      "stars": 257,
+      "full_text": "填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/RadishXN/run-abroad"
+    },
+    {
+      "name": "sgnihttcejbo/chainlink-example",
+      "stars": 201,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/sgnihttcejbo/chainlink-example"
+    },
+    {
+      "name": "nduc99911/repo-context-mcp",
+      "stars": 63,
+      "full_text": "MCP server: repo map, code search, and token-aware context packs for AI coding agents",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nduc99911/repo-context-mcp"
+    },
+    {
+      "name": "thangnqdev/codex-oss-agent-kit",
+      "stars": 59,
+      "full_text": "",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/thangnqdev/codex-oss-agent-kit"
+    },
+    {
+      "name": "wzchav/tokentab",
+      "stars": 56,
+      "full_text": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/wzchav/tokentab"
+    },
+    {
+      "name": "manhvann/codexkit",
+      "stars": 52,
+      "full_text": "Project-local Codex workspace kit with reusable skills, agents, hooks, plans, docs, and helper scripts for multi-repository development.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/manhvann/codexkit"
+    },
+    {
+      "name": "hanvietanh/figma-ds-agent",
+      "stars": 48,
+      "full_text": "",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/hanvietanh/figma-ds-agent"
+    }
+  ]
+}
