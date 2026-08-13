@@ -1,0 +1,34 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-13T09:25:20.314Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 8,
+      "TALENT_GROWTH": 2,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "dmmulroy/anti-slop",
+      "stars": 344,
+      "full_text": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dmmulroy/anti-slop"
+    },
+    {
+      "name": "wzchav/tokentab",
+      "stars": 49,
+      "full_text": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/wzchav/tokentab"
+    }
+  ]
+}
