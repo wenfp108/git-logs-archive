@@ -1,0 +1,232 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-14T15:16:04.177Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 8,
+      "KNOWLEDGE_BASE": 1,
+      "TECH_ACCELERATOR": 6,
+      "CODE_LEVERAGE": 9,
+      "VIRAL_UNCATEGORIZED": 27,
+      "TALENT_GROWTH": 3,
+      "CAREER_MOVES": 1
+    }
+  },
+  "items": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "stars": 76254,
+      "full_text": "DeepSeek Harness: Everything is a Plugin.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/deepseek-ai/deepseek-harness"
+    },
+    {
+      "name": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "stars": 1189,
+      "full_text": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts"
+    },
+    {
+      "name": "Leutenegger/book-to-skill",
+      "stars": 1047,
+      "full_text": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Leutenegger/book-to-skill"
+    },
+    {
+      "name": "cordiverse/paper",
+      "stars": 963,
+      "full_text": "A Programming Paradigm for Spatiotemporal Composability",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cordiverse/paper"
+    },
+    {
+      "name": "ccch1mneyyy/dsh-TUI",
+      "stars": 598,
+      "full_text": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI"
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "stars": 396,
+      "full_text": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "tags": [
+        "KNOWLEDGE_BASE",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin"
+    },
+    {
+      "name": "Small-tailqwq/dsh-deep-whale",
+      "stars": 350,
+      "full_text": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale"
+    },
+    {
+      "name": "elie222/rakazo",
+      "stars": 309,
+      "full_text": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/elie222/rakazo"
+    },
+    {
+      "name": "alchaincyf/deepseek-harness-orange-book",
+      "stars": 285,
+      "full_text": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alchaincyf/deepseek-harness-orange-book"
+    },
+    {
+      "name": "Anionex/dsh-vision-toolkit",
+      "stars": 258,
+      "full_text": "让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Anionex/dsh-vision-toolkit"
+    },
+    {
+      "name": "NousResearch/Hermes-Bot-Mode",
+      "stars": 209,
+      "full_text": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/NousResearch/Hermes-Bot-Mode"
+    },
+    {
+      "name": "fellowgeek/mcp-memory",
+      "stars": 122,
+      "full_text": "An OKF-backed Model Context Protocol (MCP) server delivering persistent long-term memory and SQLite FTS5 search for AI agents.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/fellowgeek/mcp-memory"
+    },
+    {
+      "name": "thangnqdev/codex-oss-agent-kit",
+      "stars": 96,
+      "full_text": "",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/thangnqdev/codex-oss-agent-kit"
+    },
+    {
+      "name": "manhvann/codexkit",
+      "stars": 92,
+      "full_text": "Project-local Codex workspace kit with reusable skills, agents, hooks, plans, docs, and helper scripts for multi-repository development.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/manhvann/codexkit"
+    },
+    {
+      "name": "hanvietanh/figma-ds-agent",
+      "stars": 86,
+      "full_text": "",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/hanvietanh/figma-ds-agent"
+    },
+    {
+      "name": "thiientv/godmode",
+      "stars": 85,
+      "full_text": "Production-grade Agent Skills for AI coding agents—composable workflows for planning, TDD, debugging, review, UI/UX, releases, incidents, and evals.",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/thiientv/godmode"
+    },
+    {
+      "name": "nguyenvanmanh7773-alt/oss-maintainer-agent",
+      "stars": 84,
+      "full_text": "",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nguyenvanmanh7773-alt/oss-maintainer-agent"
+    },
+    {
+      "name": "nguyenthedat123/agents-md-generator",
+      "stars": 82,
+      "full_text": "",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/nguyenthedat123/agents-md-generator"
+    },
+    {
+      "name": "emailhayday10-coder/agent-doctor",
+      "stars": 81,
+      "full_text": "",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/emailhayday10-coder/agent-doctor"
+    },
+    {
+      "name": "a2307588073-arch/zynq-yolov3-tiny-accelerator",
+      "stars": 65,
+      "full_text": "INT8 single-class YOLOv3-Tiny accelerator and OV5640-to-HDMI bare-metal demo for Xilinx Zynq-7000 XC7Z100, with PyTorch training and parameter-export tools.  Topics  yolov3-tiny, fpga, zynq-7000, xc7z100, verilog, vivado, vitis, pytorch, int8-quantization, object-detection, axi4-stream, ov5640, hdmi, embedded-systems, computer-vision",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/a2307588073-arch/zynq-yolov3-tiny-accelerator"
+    },
+    {
+      "name": "omdsh-dev/dsh-genui",
+      "stars": 49,
+      "full_text": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/omdsh-dev/dsh-genui"
+    }
+  ]
+}
