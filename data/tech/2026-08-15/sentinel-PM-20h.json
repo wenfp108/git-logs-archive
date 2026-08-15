@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-15T20:25:53.125Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "VIRAL_UNCATEGORIZED": 21,
+      "CODE_LEVERAGE": 3,
+      "CORE_PRAGMATISM": 1,
+      "TECH_ACCELERATOR": 4,
+      "KNOWLEDGE_BASE": 2,
+      "PARADIGM_SHIFT": 1
+    }
+  },
+  "items": [
+    {
+      "name": "xiaobright/dsh-anchored-standard",
+      "stars": 1693,
+      "full_text": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard"
+    },
+    {
+      "name": "yjh051108/dsh-routing-suite",
+      "stars": 951,
+      "full_text": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/yjh051108/dsh-routing-suite"
+    },
+    {
+      "name": "alchaincyf/deepseek-harness-orange-book",
+      "stars": 696,
+      "full_text": "DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/alchaincyf/deepseek-harness-orange-book"
+    },
+    {
+      "name": "dsh-market/dsh-market",
+      "stars": 204,
+      "full_text": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/dsh-market/dsh-market"
+    },
+    {
+      "name": "sjc88661/multi-agent-discuss",
+      "stars": 160,
+      "full_text": "",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sjc88661/multi-agent-discuss"
+    },
+    {
+      "name": "hairyf/deepseek-harness-desktop",
+      "stars": 140,
+      "full_text": "DeepSeek Harness 桌面版 | One-click desktop app for DeepSeek Harness (dsh), zero environment setup. Windows / macOS / Linux.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/hairyf/deepseek-harness-desktop"
+    },
+    {
+      "name": "ZSvirt/zsvirt",
+      "stars": 139,
+      "full_text": "Core IaaS engine and cloud infrastructure foundation of ZSvirt",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ZSvirt/zsvirt"
+    },
+    {
+      "name": "emailhayday10-coder/agent-doctor",
+      "stars": 90,
+      "full_text": "",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/emailhayday10-coder/agent-doctor"
+    },
+    {
+      "name": "duongdang942/ai-agent-for-magento2",
+      "stars": 85,
+      "full_text": "",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/duongdang942/ai-agent-for-magento2"
+    },
+    {
+      "name": "dungoutlook1/ai-super-model",
+      "stars": 84,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dungoutlook1/ai-super-model"
+    },
+    {
+      "name": "BruzWJ/Liang-Saint-Slider",
+      "stars": 55,
+      "full_text": "Liang Saint Slider as the DeepSeek Harness model + thinking-effort selector.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BruzWJ/Liang-Saint-Slider"
+    },
+    {
+      "name": "neilthomas89440-crypto/inferna-next",
+      "stars": 50,
+      "full_text": "Self-hosted GPU cluster orchestration: deploy and serve AI models on your own hardware",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/neilthomas89440-crypto/inferna-next"
+    },
+    {
+      "name": "anoslide/dsh-vscode-layout",
+      "stars": 49,
+      "full_text": "把 DeepSeek Harness（dsh）Web 界面改造成 VS Code 式 IDE：三栏布局、文件树、多标签查看器/编辑器、桌面启动器，全部补丁可重放（MIT）",
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/anoslide/dsh-vscode-layout"
+    }
+  ]
+}

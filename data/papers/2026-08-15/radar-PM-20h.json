@@ -1,0 +1,325 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-15T20:25:54.251Z",
+    "total_captured": 21,
+    "TRENDING_DIRECTIONS": [
+      "Quantum (Heat:121)",
+      "Upper and lower bounds (Heat:80)",
+      "Position (finance) (Heat:71)",
+      "Consistency (knowledge bases) (Heat:63)",
+      "Entropy (arrow of time) (Heat:60)"
+    ],
+    "strategy_summary": {
+      "NEXT_COMPUTING": 8,
+      "STRATEGIC_ENERGY": 1,
+      "BIO_REVOLUTION": 11,
+      "AI_CORE": 3,
+      "PARADIGM_SHIFT": 1
+    }
+  },
+  "items": [
+    {
+      "title": "Learning millisecond protein dynamics from what is missing in NMR spectra",
+      "type": "☢️ NUCLEAR",
+      "journal": "Nature",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.biorxiv.org/content/biorxiv/early/2025/03/19/2025.03.19.642801.full.pdf",
+      "reason": "Elite Journal (Nature)",
+      "publication_date": "2026-08-10"
+    },
+    {
+      "title": "Observation as Access: A Quantum Traction Theory Dissolution of the Measurement Problem",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 50,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20114403",
+      "reason": "Velocity: 50 citations",
+      "publication_date": "2026-08-12"
+    },
+    {
+      "title": "Artian's Entropy and Second-Law Reference Theorem: Completed Records, Access Loss, and the A2-A3 Source-Volume Ledger",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 28,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "STRATEGIC_ENERGY",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20045306",
+      "reason": "Velocity: 28 citations",
+      "publication_date": "2026-08-13"
+    },
+    {
+      "title": "Learning Without Weights: a Geometric Learner that Needs Less Data, Predicts Without Training, and Cannot Forget",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 26,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21612831",
+      "reason": "Velocity: 26 citations",
+      "publication_date": "2026-08-10"
+    },
+    {
+      "title": "Loss-of-function mutation in Omicron variants reduces spike protein expression and attenuates SARS-CoV-2 infection",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Communications",
+      "metrics": {
+        "citations": 22,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.nature.com/articles/s41467-026-76680-4_reference.pdf",
+      "reason": "Velocity: 22 citations",
+      "publication_date": "2026-08-12"
+    },
+    {
+      "title": "Yangians of Lie Superalgebras",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ArXiv/Preprint",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.13140/rg.2.2.13724.45442",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-08-08"
+    },
+    {
+      "title": "Functional Stability Theory II: Chemical Stability and Autocatalytic Selection",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 19,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20130563",
+      "reason": "Velocity: 19 citations",
+      "publication_date": "2026-08-08"
+    },
+    {
+      "title": "Plasticity of human microglia and brain perivascular macrophages in aging and Alzheimer’s disease",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Genetics",
+      "metrics": {
+        "citations": 17,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://www.medrxiv.org/content/medrxiv/early/2023/10/26/2023.10.25.23297558.full.pdf",
+      "reason": "Velocity: 17 citations",
+      "publication_date": "2026-08-11"
+    },
+    {
+      "title": "QG-CRM: Ultraviolet Completion of the Curvature Relaxation Model via Quantum Quadratic Gravity",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19352448",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-08-08"
+    },
+    {
+      "title": "LncPNdeep: A long non-coding RNA classifier based on large language model with peptide and nucleotide embedding",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Non-coding RNA Research",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1016/j.ncrna.2026.06.004",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-08-13"
+    },
+    {
+      "title": "Grounds, Frames, and Standing: The Absorbable and Irreducible Classes of Human Intervention in Agentic Work",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21563154",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-08-12"
+    },
+    {
+      "title": "Functional Stability Theory III: Biological Stability and Nash Frustration",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20130573",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-08-13"
+    },
+    {
+      "title": "An Epistemic-Content Taxonomy of Human Intervention in Agentic Collaboration",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21730478",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-08-12"
+    },
+    {
+      "title": "Artian's HVP Source-Access Reference Framework",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 9,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20732034",
+      "reason": "Velocity: 9 citations",
+      "publication_date": "2026-08-08"
+    },
+    {
+      "title": "The Hodos Family: Equations Generated by a Relational Premise",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 7,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21850666",
+      "reason": "Velocity: 7 citations",
+      "publication_date": "2026-08-10"
+    },
+    {
+      "title": "Effective Particle Physics across Successive Cosmological Cycles within the HRDCC Framework",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21853432",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-08-08"
+    },
+    {
+      "title": "LRRK2 G2019S variant is associated with transcriptional changes in Parkinson’s disease human myeloid cells under proinflammatory environment",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Neuroinflammation",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1186/s12974-026-03967-0",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-08-08"
+    },
+    {
+      "title": "Which Loops Can Carry a Burgers Vector? Selection Rules on Non-Orientable Geometry",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21849262",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-08-08"
+    },
+    {
+      "title": "Vacuum Mechanics: How the Quaternion Finally Made the Standard Model Make Sense",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19234951",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2029-03-26"
+    },
+    {
+      "title": "Detection and Characterization of Coordinated Online Behavior: A Survey",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "ACM Computing Surveys",
+      "metrics": {
+        "citations": 5,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.1145/3839225",
+      "reason": "Velocity: 5 citations",
+      "publication_date": "2026-08-08"
+    }
+  ]
+}
