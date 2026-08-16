@@ -1,0 +1,66 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-17T02:19:42.935Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 2,
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 31,
+      "KNOWLEDGE_BASE": 3,
+      "TALENT_GROWTH": 4,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "SheberDavid/v4-flash-godmode-opencode-go",
+      "stars": 479,
+      "full_text": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go"
+    },
+    {
+      "name": "morsyxbt/nft-public-mint",
+      "stars": 203,
+      "full_text": "CLI sniper for public SeaDrop NFT mints - builds calldata on-chain, no OpenSea token required",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/morsyxbt/nft-public-mint"
+    },
+    {
+      "name": "NetworkHarmonyBraid/ldplayer-module-2026",
+      "stars": 72,
+      "full_text": "Windows companion module for LDPlayer 14 setup, instance tuning, and Android 14 emulator workflows. Free portable toolkit.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/NetworkHarmonyBraid/ldplayer-module-2026"
+    },
+    {
+      "name": "neilthomas89440-crypto/inferna-next",
+      "stars": 51,
+      "full_text": "Self-hosted GPU cluster orchestration: deploy and serve AI models on your own hardware",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/neilthomas89440-crypto/inferna-next"
+    },
+    {
+      "name": "Wassimyounes01/qwen38-uncensored",
+      "stars": 48,
+      "full_text": "Local Qwen 3.8 27B uncensored Q4_K_M + harvested SYSTEM pack. Official 3.8 weights, not a 3.6 retitle.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Wassimyounes01/qwen38-uncensored"
+    }
+  ]
+}
