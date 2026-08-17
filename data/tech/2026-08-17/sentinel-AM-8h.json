@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-17T08:56:24.467Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 3,
+      "TALENT_GROWTH": 3,
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 6,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "Streamdririddle/expressvpn-panel-2026",
+      "stars": 258,
+      "full_text": "Windows companion panel and docs for ExpressVPN setup, server browsing, and connection workflows aligned with app 14.2.0.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Streamdririddle/expressvpn-panel-2026"
+    },
+    {
+      "name": "RopemakerEnd/ds4windows-lab-2026",
+      "stars": 213,
+      "full_text": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/RopemakerEnd/ds4windows-lab-2026"
+    },
+    {
+      "name": "IndigoKageBait/filmora-utility-2026",
+      "stars": 117,
+      "full_text": "Portable Windows companion for Wondershare Filmora 15.x — export presets, project helpers, and free workflow docs.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/IndigoKageBait/filmora-utility-2026"
+    },
+    {
+      "name": "NetworkHarmonyBraid/ldplayer-module-2026",
+      "stars": 72,
+      "full_text": "Windows companion module for LDPlayer 14 setup, instance tuning, and Android 14 emulator workflows. Free portable toolkit.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/NetworkHarmonyBraid/ldplayer-module-2026"
+    }
+  ]
+}
