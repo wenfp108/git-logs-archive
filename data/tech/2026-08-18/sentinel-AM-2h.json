@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-18T02:30:08.475Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 3,
+      "VIRAL_GIANT": 1,
+      "TALENT_GROWTH": 2,
+      "VIRAL_UNCATEGORIZED": 18,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "yetone/cumora",
+      "stars": 924,
+      "full_text": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yetone/cumora"
+    },
+    {
+      "name": "b-nnett/codex-subscription-router",
+      "stars": 243,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/b-nnett/codex-subscription-router"
+    },
+    {
+      "name": "IndigoKageBait/filmora-utility-2026",
+      "stars": 74,
+      "full_text": "Portable Windows companion for Wondershare Filmora 15.x — export presets, project helpers, and free workflow docs.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/IndigoKageBait/filmora-utility-2026"
+    },
+    {
+      "name": "DFarm6/Prism-Browser-Community",
+      "stars": 57,
+      "full_text": "Local-first open-source multi-profile fingerprint browser based on Chromium and Electron",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/DFarm6/Prism-Browser-Community"
+    },
+    {
+      "name": "norio/three-stylized-water",
+      "stars": 56,
+      "full_text": "three.js WebGPU + TSL port of Uber Stylized Water",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/norio/three-stylized-water"
+    }
+  ]
+}
