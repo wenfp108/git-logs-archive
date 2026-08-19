@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-19T08:55:09.482Z",
+    "session": "AM",
+    "trend_summary": {
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 11,
+      "TECH_ACCELERATOR": 2,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "s1dashu/ip-as-logo-skill",
+      "stars": 578,
+      "full_text": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill"
+    },
+    {
+      "name": "amitshekhariitbhu/llm-inference-engineering",
+      "stars": 104,
+      "full_text": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering"
+    },
+    {
+      "name": "wolfiesch/omp-best-of",
+      "stars": 47,
+      "full_text": "Best-of-N coding agents with LLM-as-a-Verifier selection for Oh My Pi: isolated git worktrees, verifier-ranked trajectories, winner-only patch application",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/wolfiesch/omp-best-of"
+    }
+  ]
+}
