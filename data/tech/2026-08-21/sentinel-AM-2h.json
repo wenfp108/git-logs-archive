@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-21T02:30:12.528Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "CODE_LEVERAGE": 2,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_UNCATEGORIZED": 19,
+      "TECH_ACCELERATOR": 7
+    }
+  },
+  "items": [
+    {
+      "name": "Leutenegger/watermarks-remover",
+      "stars": 922,
+      "full_text": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Leutenegger/watermarks-remover"
+    },
+    {
+      "name": "missuo/herdrm",
+      "stars": 558,
+      "full_text": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/missuo/herdrm"
+    },
+    {
+      "name": "xdreizein666/getcontact-cli",
+      "stars": 220,
+      "full_text": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/xdreizein666/getcontact-cli"
+    },
+    {
+      "name": "lanicer/cve-2026-41940-PoC",
+      "stars": 208,
+      "full_text": "A cPanel and WHM authentication bypassing tool",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/lanicer/cve-2026-41940-PoC"
+    },
+    {
+      "name": "turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents",
+      "stars": 104,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents"
+    },
+    {
+      "name": "amagine-ai/Amagine3D",
+      "stars": 54,
+      "full_text": "Amagine3D: From hardware requirements to editable 3D designs",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/amagine-ai/Amagine3D"
+    },
+    {
+      "name": "zhengzihaoPKU/RoboECC",
+      "stars": 54,
+      "full_text": "Code for Paper \"RoboECC: Multi-Factor-Aware Edge-Cloud Collaborative Deployment for VLA Models\" accepted by IJCNN 2026.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/zhengzihaoPKU/RoboECC"
+    },
+    {
+      "name": "Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce",
+      "stars": 54,
+      "full_text": "Official NeoFollower WordPress plugin for selling SMM reseller services through WooCommerce with automated API order fulfillment, service sync, status tracking and balance monitoring.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce"
+    },
+    {
+      "name": "zhengzihaoPKU/KERV",
+      "stars": 51,
+      "full_text": "Code of paper \"KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models\" accepted by DAC 2026.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/zhengzihaoPKU/KERV"
+    },
+    {
+      "name": "turkiyeyapayzekaakademisi/computer-vision-workshop",
+      "stars": 47,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/turkiyeyapayzekaakademisi/computer-vision-workshop"
+    },
+    {
+      "name": "cryptomoonday/polymarket-arbitrage-bot-60s-twap",
+      "stars": 44,
+      "full_text": "polymarket arbitrage bot version 2 - 60s twap implementation",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cryptomoonday/polymarket-arbitrage-bot-60s-twap"
+    }
+  ]
+}
