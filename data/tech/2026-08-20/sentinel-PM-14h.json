@@ -1,0 +1,75 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-20T14:36:09.025Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 1,
+      "KNOWLEDGE_BASE": 2,
+      "VIRAL_UNCATEGORIZED": 12,
+      "TECH_ACCELERATOR": 4
+    }
+  },
+  "items": [
+    {
+      "name": "Leutenegger/watermarks-remover",
+      "stars": 915,
+      "full_text": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Leutenegger/watermarks-remover"
+    },
+    {
+      "name": "missuo/herdrm",
+      "stars": 499,
+      "full_text": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/missuo/herdrm"
+    },
+    {
+      "name": "turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents",
+      "stars": 87,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents"
+    },
+    {
+      "name": "cryptomoonday/polymarket-arbitrage-bot-60s-twap",
+      "stars": 57,
+      "full_text": "polymarket arbitrage bot version 2 - 60s twap implementation",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/cryptomoonday/polymarket-arbitrage-bot-60s-twap"
+    },
+    {
+      "name": "zhengzihaoPKU/RoboECC",
+      "stars": 47,
+      "full_text": "Code for Paper \"RoboECC: Multi-Factor-Aware Edge-Cloud Collaborative Deployment for VLA Models\" accepted by IJCNN 2026.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/zhengzihaoPKU/RoboECC"
+    },
+    {
+      "name": "zhengzihaoPKU/KERV",
+      "stars": 44,
+      "full_text": "code of paper \"KERV: Kinematic-Rectified Speculative Decoding for Embodied VLA Models\" accepted by DAC 2026.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/zhengzihaoPKU/KERV"
+    }
+  ]
+}
