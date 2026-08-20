@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-20T08:54:39.686Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 1,
+      "KNOWLEDGE_BASE": 2,
+      "TECH_ACCELERATOR": 2,
+      "VIRAL_UNCATEGORIZED": 5
+    }
+  },
+  "items": [
+    {
+      "name": "Leutenegger/watermarks-remover",
+      "stars": 912,
+      "full_text": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Leutenegger/watermarks-remover"
+    },
+    {
+      "name": "missuo/herdrm",
+      "stars": 411,
+      "full_text": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/missuo/herdrm"
+    },
+    {
+      "name": "turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents",
+      "stars": 86,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents"
+    },
+    {
+      "name": "zhengzihaoPKU/RoboECC",
+      "stars": 41,
+      "full_text": "Code for Paper \"RoboECC: Multi-Factor-Aware Edge-Cloud Collaborative Deployment for VLA Models\" accepted by IJCNN 2026.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/zhengzihaoPKU/RoboECC"
+    }
+  ]
+}
