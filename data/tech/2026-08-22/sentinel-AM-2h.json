@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-22T02:28:01.194Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 4,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 21,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "Leutenegger/vanity-eth",
+      "stars": 803,
+      "full_text": "Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Leutenegger/vanity-eth"
+    },
+    {
+      "name": "Leutenegger/coldcard-airgap",
+      "stars": 608,
+      "full_text": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Leutenegger/coldcard-airgap"
+    },
+    {
+      "name": "xdreizein666/getcontact-cli",
+      "stars": 356,
+      "full_text": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/xdreizein666/getcontact-cli"
+    },
+    {
+      "name": "cclank/lanshu-create-ai-presenter-video",
+      "stars": 237,
+      "full_text": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video"
+    },
+    {
+      "name": "MengTo/threeui",
+      "stars": 209,
+      "full_text": "Open-source ThreeUI Community catalog with live interactive components and complete Community source.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MengTo/threeui"
+    },
+    {
+      "name": "Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce",
+      "stars": 85,
+      "full_text": "Official NeoFollower WordPress plugin for selling SMM reseller services through WooCommerce with automated API order fulfillment, service sync, status tracking and balance monitoring.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce"
+    },
+    {
+      "name": "turkiyeyapayzekaakademisi/computer-vision-workshop",
+      "stars": 80,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/turkiyeyapayzekaakademisi/computer-vision-workshop"
+    }
+  ]
+}
