@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-21T14:36:01.072Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 16,
+      "TECH_ACCELERATOR": 2
+    }
+  },
+  "items": [
+    {
+      "name": "Leutenegger/vanity-eth",
+      "stars": 801,
+      "full_text": "Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process search with interactive CLI menu. Supports Legacy, Nested SegWit, Native SegWit, Taproot, and ETH (EIP-55).",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Leutenegger/vanity-eth"
+    },
+    {
+      "name": "Leutenegger/coldcard-airgap",
+      "stars": 607,
+      "full_text": "Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dice entropy, Seed XOR split/combine, BBQr encode/decode, output descriptors, and firmware verification guidance. Companion to official Coldcard firmware. Not affiliated with Coinkite.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Leutenegger/coldcard-airgap"
+    },
+    {
+      "name": "xdreizein666/getcontact-cli",
+      "stars": 316,
+      "full_text": "GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat API GetContact, tanpa aplikasi Android dan tanpa browser.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/xdreizein666/getcontact-cli"
+    },
+    {
+      "name": "Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce",
+      "stars": 74,
+      "full_text": "Official NeoFollower WordPress plugin for selling SMM reseller services through WooCommerce with automated API order fulfillment, service sync, status tracking and balance monitoring.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce"
+    },
+    {
+      "name": "turkiyeyapayzekaakademisi/computer-vision-workshop",
+      "stars": 66,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/turkiyeyapayzekaakademisi/computer-vision-workshop"
+    }
+  ]
+}
