@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-24T08:57:08.349Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 10
+    }
+  },
+  "items": [
+    {
+      "name": "ShadowAqueduct/watermark-remover",
+      "stars": 760,
+      "full_text": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover"
+    }
+  ]
+}
