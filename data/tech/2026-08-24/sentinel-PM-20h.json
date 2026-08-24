@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-24T20:37:27.477Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 16,
+      "TECH_ACCELERATOR": 3
+    }
+  },
+  "items": [
+    {
+      "name": "b-nnett/grok-bot-0.18-reconstructed",
+      "stars": 822,
+      "full_text": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
+    },
+    {
+      "name": "ShadowAqueduct/watermark-remover",
+      "stars": 762,
+      "full_text": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover"
+    },
+    {
+      "name": "tobi/walgit",
+      "stars": 731,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tobi/walgit"
+    },
+    {
+      "name": "rome-os/rome",
+      "stars": 192,
+      "full_text": "Rome is the agentic OS.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/rome-os/rome"
+    },
+    {
+      "name": "AlpinDale/gpt2.cmake",
+      "stars": 77,
+      "full_text": "Implementation of the GPT-2 model in pure CMake",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AlpinDale/gpt2.cmake"
+    },
+    {
+      "name": "TeleHuman/WNM-3D",
+      "stars": 69,
+      "full_text": "Official Implementation of \"WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN\"",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TeleHuman/WNM-3D"
+    },
+    {
+      "name": "seoan1024/Korean-llm-v3",
+      "stars": 41,
+      "full_text": "PyTorch 기반 한국어 LLM 구현 및 학습 프로젝트",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/seoan1024/Korean-llm-v3"
+    }
+  ]
+}
