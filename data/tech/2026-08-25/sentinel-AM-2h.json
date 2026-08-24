@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-25T02:31:15.929Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 19,
+      "TECH_ACCELERATOR": 5
+    }
+  },
+  "items": [
+    {
+      "name": "b-nnett/grok-bot-0.18-reconstructed",
+      "stars": 1428,
+      "full_text": "Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for macOS",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/b-nnett/grok-bot-0.18-reconstructed"
+    },
+    {
+      "name": "tobi/walgit",
+      "stars": 919,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/tobi/walgit"
+    },
+    {
+      "name": "ShadowAqueduct/watermark-remover",
+      "stars": 767,
+      "full_text": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover"
+    },
+    {
+      "name": "rome-os/rome",
+      "stars": 245,
+      "full_text": "Rome is the agentic OS.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/rome-os/rome"
+    },
+    {
+      "name": "alchaincyf/huashu-excel",
+      "stars": 125,
+      "full_text": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alchaincyf/huashu-excel"
+    },
+    {
+      "name": "AlpinDale/gpt2.cmake",
+      "stars": 91,
+      "full_text": "Implementation of the GPT-2 model in pure CMake",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AlpinDale/gpt2.cmake"
+    },
+    {
+      "name": "TeleHuman/WNM-3D",
+      "stars": 71,
+      "full_text": "Official Implementation of \"WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN\"",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/TeleHuman/WNM-3D"
+    },
+    {
+      "name": "BraxisAI/braxis-blueprint",
+      "stars": 46,
+      "full_text": "The $0 AI Empire Playbook — 140+ agents, 20+ free LLM lanes, 1,800+ songs, a living 3D world, all on free tiers. Real scripts, real failure classes, MIT.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/BraxisAI/braxis-blueprint"
+    },
+    {
+      "name": "seoan1024/Korean-llm-v3",
+      "stars": 42,
+      "full_text": "PyTorch 기반 한국어 LLM 구현 및 학습 프로젝트",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/seoan1024/Korean-llm-v3"
+    },
+    {
+      "name": "connorkapoor/geofield-bracket",
+      "stars": 42,
+      "full_text": "One learned latent for geometry + physics + manufacturability: give it a box and a load, get a solver-certified bracket. SE(3)-equivariant field model, immersed FEA, live 3D designer.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/connorkapoor/geofield-bracket"
+    }
+  ]
+}
