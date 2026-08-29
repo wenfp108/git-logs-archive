@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-29T20:08:23.692Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 5,
+      "VIRAL_UNCATEGORIZED": 45
+    }
+  },
+  "items": [
+    {
+      "name": "XiaoDuoYa/codex-with-chatgpt",
+      "stars": 680,
+      "full_text": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
+    },
+    {
+      "name": "Nanako0129/sepia",
+      "stars": 554,
+      "full_text": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Nanako0129/sepia"
+    },
+    {
+      "name": "MetaMask-AI/metamask-desktop",
+      "stars": 453,
+      "full_text": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MetaMask-AI/metamask-desktop"
+    },
+    {
+      "name": "chrisgreg/boop",
+      "stars": 311,
+      "full_text": "A tiny, self-hosted notification inbox for developers. Something happened in one of your apps; Boop tells you on your phone.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/chrisgreg/boop"
+    },
+    {
+      "name": "Leveetememorialize/gta-6-download-cyberleek",
+      "stars": 231,
+      "full_text": "GTA 6 Alpha build leaked by CyberLeek. Full playable build with Vice City map, gameplay, cutscenes, and assets. Launcher is 100 MB — downloads the full 106 GB build during installation.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Leveetememorialize/gta-6-download-cyberleek"
+    }
+  ]
+}
