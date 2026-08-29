@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-29T13:16:30.352Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "VIRAL_UNCATEGORIZED": 47
+    }
+  },
+  "items": [
+    {
+      "name": "Nanako0129/sepia",
+      "stars": 466,
+      "full_text": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Nanako0129/sepia"
+    },
+    {
+      "name": "XiaoDuoYa/codex-with-chatgpt",
+      "stars": 456,
+      "full_text": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt"
+    },
+    {
+      "name": "MetaMask-AI/metamask-desktop",
+      "stars": 292,
+      "full_text": "🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websites",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MetaMask-AI/metamask-desktop"
+    }
+  ]
+}
