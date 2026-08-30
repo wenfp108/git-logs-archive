@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-30T19:04:48.733Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 11,
+      "TECH_ACCELERATOR": 1,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "artemtsitronov/glacex",
+      "stars": 50,
+      "full_text": "GPU-Rendered UI library built from scratch in Rust [WIP]",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/artemtsitronov/glacex"
+    },
+    {
+      "name": "dr3murr/steam2-winfsp",
+      "stars": 50,
+      "full_text": "Mount loose Steam2 depot archives through WinFsp with a Qt 6 manager and ephemeral RAM writes",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dr3murr/steam2-winfsp"
+    }
+  ]
+}
