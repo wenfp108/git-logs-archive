@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-30T11:09:38.201Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 5,
+      "TECH_ACCELERATOR": 1
+    }
+  },
+  "items": [
+    {
+      "name": "artemtsitronov/glacex",
+      "stars": 44,
+      "full_text": "GPU-Rendered UI library built from scratch in Rust [WIP]",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/artemtsitronov/glacex"
+    }
+  ]
+}
