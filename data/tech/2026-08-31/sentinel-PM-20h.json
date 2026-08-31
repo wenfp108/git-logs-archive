@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-08-31T20:27:55.933Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "TECH_ACCELERATOR": 3,
+      "VIRAL_UNCATEGORIZED": 9
+    }
+  },
+  "items": [
+    {
+      "name": "GangTailorUpgrade/CoomeRtool",
+      "stars": 429,
+      "full_text": "Coomer Tool",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/GangTailorUpgrade/CoomeRtool"
+    },
+    {
+      "name": "slightbasebo/fragment-api-dev",
+      "stars": 136,
+      "full_text": "Telegram Stars and Premium API with GRAM/USDT payments, Python SDK, REST examples, and no API key.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/slightbasebo/fragment-api-dev"
+    },
+    {
+      "name": "MSNightmare/PrettyPrague",
+      "stars": 110,
+      "full_text": "GenDigital Avast Antivirus ZeroDay Elevation of Privileges Vulnerability",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/MSNightmare/PrettyPrague"
+    },
+    {
+      "name": "AMAP-ML/LoopArena",
+      "stars": 67,
+      "full_text": "Benchmarking models as runtime Controllers for Loop Engineering",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AMAP-ML/LoopArena"
+    }
+  ]
+}
