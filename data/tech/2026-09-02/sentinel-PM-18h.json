@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-02T18:26:30.536Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 26,
+      "KNOWLEDGE_BASE": 2,
+      "TECH_ACCELERATOR": 3
+    }
+  },
+  "items": [
+    {
+      "name": "AMAP-ML/DreamX-Creator",
+      "stars": 118,
+      "full_text": "Democratizing Native Audio-Video Generation at 2K Resolution",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AMAP-ML/DreamX-Creator"
+    },
+    {
+      "name": "peter123023/awesome-free-llm-api",
+      "stars": 56,
+      "full_text": "免费大模型 API 导航 · 只收录能通过 API Key 和 endpoint 调用的永久免费 / 限时免费接口｜A curated list of free LLM APIs — permanently free tiers and limited-time free models, all callable via API key and endpoint. Channel-first, with a model index for DeepSeek, GLM, Qwen and more",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/peter123023/awesome-free-llm-api"
+    },
+    {
+      "name": "bsab/italia-mcp-servers",
+      "stars": 51,
+      "full_text": "Catalogo curato dei server MCP (Model Context Protocol) italiani — dati pubblici, legal-tech, fatturazione, PA e altro.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bsab/italia-mcp-servers"
+    }
+  ]
+}

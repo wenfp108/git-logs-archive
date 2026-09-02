@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-02T18:26:31.709Z",
+    "total_captured": 24,
+    "TRENDING_DIRECTIONS": [
+      "Architecture (Heat:107)",
+      "Combustor (Heat:87)",
+      "Breeder (animal) (Heat:87)",
+      "Closure (psychology) (Heat:87)",
+      "Power (physics) (Heat:87)"
+    ],
+    "strategy_summary": {
+      "BIO_REVOLUTION": 13,
+      "STRATEGIC_ENERGY": 1,
+      "NEXT_COMPUTING": 6,
+      "AI_CORE": 7,
+      "PARADIGM_SHIFT": 2
+    }
+  },
+  "items": [
+    {
+      "title": "The Kronos Integrated Platform: A Spherical-Tokamak Breeder and a Deuterium-Helium-3 Burner as One Strategic-Materials and Power Architecture",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "OSF Preprints (OSF Preprints)",
+      "metrics": {
+        "citations": 86,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "STRATEGIC_ENERGY"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22132156",
+      "reason": "Velocity: 86 citations",
+      "publication_date": "2026-08-28"
+    },
+    {
+      "title": "Planck-length metrology without Newton's constant: a zero-fit weak-sector reconstruction and adversarial provenance audit",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 25,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21190193",
+      "reason": "Velocity: 25 citations",
+      "publication_date": "2026-08-27"
+    },
+    {
+      "title": "Execution-Time Authorization for AI Agents: A Formal Framework for Deterministic Governance Boundaries",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 21,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18764561",
+      "reason": "Velocity: 21 citations",
+      "publication_date": "2026-08-28"
+    },
+    {
+      "title": "Anglophone Discourses on Race in the 19th Century: British and African Perspectives",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Phaidra (Universität Wien)",
+      "metrics": {
+        "citations": 18,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.25365/phaidra.1057_03",
+      "reason": "Velocity: 18 citations",
+      "publication_date": "2026-08-26"
+    },
+    {
+      "title": "SGLT2 inhibitors activate pantothenate kinase in the human heart",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Science",
+      "metrics": {
+        "citations": 16,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.1101/2024.07.26.605401",
+      "reason": "Velocity: 16 citations",
+      "publication_date": "2026-08-27"
+    },
+    {
+      "title": "Grounds, Frames, and Standing: The Absorbable and Irreducible Classes of Human Intervention in Agentic Work",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21563154",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-08-27"
+    },
+    {
+      "title": "An Epistemic-Content Taxonomy of Human Intervention in Agentic Collaboration",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 13,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.21730478",
+      "reason": "Velocity: 13 citations",
+      "publication_date": "2026-08-27"
+    },
+    {
+      "title": "The Authorization Artifact Test: Applying the Impossibility Result to Ex-Ante Authorization Requirements",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 12,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.20013582",
+      "reason": "Velocity: 12 citations",
+      "publication_date": "2026-08-27"
+    },
+    {
+      "title": "Angular Monotonicity of Completed Dirichlet L-Functions via the Three-Term Zeta Decomposition: A Proof of the Generalized Riemann Hypothesis for Non-Principal Characters",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 11,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22167742",
+      "reason": "Velocity: 11 citations",
+      "publication_date": "2026-08-30"
+    },
+    {
+      "title": "Matrix Product Operator Algebras I: Representations of Weak Hopf Algebras and Projected Entangled Pair States",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Communications in Mathematical Physics",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.1007/s00220-026-05670-w",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-08-28"
+    },
+    {
+      "title": "When Output Becomes Infrastructure: Operational Compilation and a Falsifiable Test for Cross-Level Transitions",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 10,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "PARADIGM_SHIFT"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22115305",
+      "reason": "Velocity: 10 citations",
+      "publication_date": "2026-08-26"
+    },
+    {
+      "title": "The Universal Concept Layer: Language as Versionable Code — A Meaning Layer between Humans, Language Models, Agents, and Robots",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22172128",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-08-30"
+    },
+    {
+      "title": "The Authorization Boundary: What MCP and AI Gateways Do Not Establish for Regulated Agentic AI",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.18612065",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-08-28"
+    },
+    {
+      "title": "A modular-charge fifth face of the Unified Equilibrium Law in Quantum Traction Theory: E_P = (ℏc/2πℓ_P) Q_P at A7 saturation",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Open MIND",
+      "metrics": {
+        "citations": 8,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION",
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://quantumtraction.org/",
+      "reason": "Velocity: 8 citations",
+      "publication_date": "2026-08-27"
+    },
+    {
+      "title": "Vacuum Mechanics: How the Quaternion Finally Made the Standard Model Make Sense",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "NEXT_COMPUTING"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.19234951",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2029-03-26"
+    },
+    {
+      "title": "Beyond Complete Compilation: Task-Semantic Images and the Complexity of Computing Only What a Query Can See",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE",
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22160359",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-08-29"
+    },
+    {
+      "title": "A Controlled Comparison of AI Text Humanizers on Academic Writing",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22152404",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-08-29"
+    },
+    {
+      "title": "The Offline Attestation Record: A Tamper-Evident Provenance Mechanism for Sovereign, Offline Enterprise AI",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://doi.org/10.5281/zenodo.22143718",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-08-28"
+    },
+    {
+      "title": "Optimizing container loading and unloading through dual-cycling and dockyard rehandle reduction using a hybrid genetic algorithm",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Journal of Marine Science and Technology",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "BIO_REVOLUTION"
+      ],
+      "url": "https://link.springer.com/content/pdf/10.1007/s00773-026-01135-w.pdf",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-08-27"
+    },
+    {
+      "title": "All-optical multimodal mapping of single-cell-type-specific metabolic activities via REDCAT",
+      "type": "⚡ EARLY_SIGNAL",
+      "journal": "Nature Methods",
+      "metrics": {
+        "citations": 6,
+        "impact_factor": "0.0"
+      },
+      "strategies": [
+        "AI_CORE"
+      ],
+      "url": "https://doi.org/10.1038/s41592-026-03180-0",
+      "reason": "Velocity: 6 citations",
+      "publication_date": "2026-08-27"
+    }
+  ]
+}
