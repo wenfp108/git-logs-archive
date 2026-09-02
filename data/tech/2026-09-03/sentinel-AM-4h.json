@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-03T04:24:34.620Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_UNCATEGORIZED": 28,
+      "TECH_ACCELERATOR": 4,
+      "KNOWLEDGE_BASE": 2,
+      "CODE_LEVERAGE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "AMAP-ML/DreamX-Creator",
+      "stars": 123,
+      "full_text": "Democratizing Native Audio-Video Generation at 2K Resolution",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/AMAP-ML/DreamX-Creator"
+    },
+    {
+      "name": "anthropics/commerce-agents",
+      "stars": 105,
+      "full_text": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/anthropics/commerce-agents"
+    },
+    {
+      "name": "peter123023/awesome-free-llm-api",
+      "stars": 60,
+      "full_text": "免费大模型 API 导航 · 只收录能通过 API Key 和 endpoint 调用的永久免费 / 限时免费接口｜A curated list of free LLM APIs — permanently free tiers and limited-time free models, all callable via API key and endpoint. Channel-first, with a model index for DeepSeek, GLM, Qwen and more",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/peter123023/awesome-free-llm-api"
+    },
+    {
+      "name": "bsab/italia-mcp-servers",
+      "stars": 53,
+      "full_text": "Catalogo curato dei server MCP (Model Context Protocol) italiani — dati pubblici, legal-tech, fatturazione, PA e altro.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bsab/italia-mcp-servers"
+    },
+    {
+      "name": "jonathanhawkins/microduck-lab",
+      "stars": 52,
+      "full_text": "Train RL policies for the Pollen Microduck 🦆 on an ordinary Mac, no CUDA GPU,  and watch them learn live in the browser.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jonathanhawkins/microduck-lab"
+    }
+  ]
+}
