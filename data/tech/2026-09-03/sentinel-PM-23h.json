@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-03T23:38:55.524Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "CODE_LEVERAGE": 1,
+      "TECH_ACCELERATOR": 4,
+      "VIRAL_UNCATEGORIZED": 38,
+      "KNOWLEDGE_BASE": 2,
+      "TALENT_GROWTH": 2,
+      "PARADIGM_SHIFT": 1
+    }
+  },
+  "items": [
+    {
+      "name": "PhiloLabs/fable51-worlds",
+      "stars": 339,
+      "full_text": "worlds via code, from fable 5.1",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/PhiloLabs/fable51-worlds"
+    },
+    {
+      "name": "MSNightmare/FalconFlank",
+      "stars": 333,
+      "full_text": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MSNightmare/FalconFlank"
+    },
+    {
+      "name": "lnkiai/m3e-canvas",
+      "stars": 321,
+      "full_text": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/lnkiai/m3e-canvas"
+    },
+    {
+      "name": "dreamers-laboratory/image-to-3d-pipeline",
+      "stars": 242,
+      "full_text": "Reconstruct 3D meshes from images with several open-source models and score which did it best.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dreamers-laboratory/image-to-3d-pipeline"
+    },
+    {
+      "name": "dreamers-laboratory/ai-evaluation-framework",
+      "stars": 112,
+      "full_text": "Accuracy, latency p95, and cost benchmarking for model-based solutions, with per-field ground-truth scoring.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/dreamers-laboratory/ai-evaluation-framework"
+    },
+    {
+      "name": "podsfamily/pods",
+      "stars": 71,
+      "full_text": "Rent out your idle GPU, get paid in tokenized NVDA on Robinhood Chain.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/podsfamily/pods"
+    },
+    {
+      "name": "internetphysics/live-classroom",
+      "stars": 65,
+      "full_text": "A live TV channel that teaches whatever you type — LLM-planned lessons rendered just-in-time as 1970s-style cartoons by MiniMax H3 Max Turbo, playing on a CRT in a 3D classroom. Bring your own fal key.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/internetphysics/live-classroom"
+    },
+    {
+      "name": "larry-marshall-224/rdr2-menu-2026",
+      "stars": 48,
+      "full_text": "This repository contains cheat codes and mods for the popular game Red Dead Redemption 2. Enhance your gaming experience with unique cheats and tweaks to explore the Wild West in a whole new way.",
+      "tags": [
+        "PARADIGM_SHIFT"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/larry-marshall-224/rdr2-menu-2026"
+    }
+  ]
+}
