@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-05T04:09:36.361Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "TECH_ACCELERATOR": 4,
+      "VIRAL_UNCATEGORIZED": 22,
+      "KNOWLEDGE_BASE": 2,
+      "TALENT_GROWTH": 1
+    }
+  },
+  "items": [
+    {
+      "name": "MSNightmare/FalconFlank",
+      "stars": 491,
+      "full_text": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/MSNightmare/FalconFlank"
+    },
+    {
+      "name": "danielblnc/DLSS-NR-on-AMD",
+      "stars": 404,
+      "full_text": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/danielblnc/DLSS-NR-on-AMD"
+    },
+    {
+      "name": "Albert-Weasker/niubigeo",
+      "stars": 392,
+      "full_text": "Open-source AI brand visibility and competitor reports",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Albert-Weasker/niubigeo"
+    },
+    {
+      "name": "ahujasid/camera-to-blender",
+      "stars": 308,
+      "full_text": "Take a photo of real objects, and paste them in Blender",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ahujasid/camera-to-blender"
+    },
+    {
+      "name": "bjarneo/omarchy-workspace-layout",
+      "stars": 95,
+      "full_text": "Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bjarneo/omarchy-workspace-layout"
+    },
+    {
+      "name": "sohu-mptc/FlashRec",
+      "stars": 85,
+      "full_text": "FlashRec is a CUDA-graph engine for generative recommendation: wide beam search (3–5 SID steps, n=50–512+) over a trie-constrained catalog, in-process FP8 serving, and ranked beams on /v1/chat/completions.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/sohu-mptc/FlashRec"
+    },
+    {
+      "name": "podsfamily/pods",
+      "stars": 74,
+      "full_text": "Rent out your idle GPU, get paid in tokenized NVDA on Robinhood Chain.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/podsfamily/pods"
+    }
+  ]
+}
