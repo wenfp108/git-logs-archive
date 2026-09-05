@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-06T03:49:12.828Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 5,
+      "TALENT_GROWTH": 2,
+      "VIRAL_UNCATEGORIZED": 40,
+      "TECH_ACCELERATOR": 2,
+      "CODE_LEVERAGE": 1,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "anthropics/fermats-last-theorem",
+      "stars": 658,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/anthropics/fermats-last-theorem"
+    },
+    {
+      "name": "Rion-Wu-tech/wechat-intelligence-hub",
+      "stars": 366,
+      "full_text": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Rion-Wu-tech/wechat-intelligence-hub"
+    },
+    {
+      "name": "KJGX66F/usque-custom-pro",
+      "stars": 280,
+      "full_text": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/KJGX66F/usque-custom-pro"
+    },
+    {
+      "name": "byJoey/warp-masque-actions",
+      "stars": 255,
+      "full_text": "GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/byJoey/warp-masque-actions"
+    },
+    {
+      "name": "ashemag/human-atlas",
+      "stars": 220,
+      "full_text": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ashemag/human-atlas"
+    },
+    {
+      "name": "bjarneo/omarchy-workspace-layout",
+      "stars": 118,
+      "full_text": "Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bjarneo/omarchy-workspace-layout"
+    },
+    {
+      "name": "agfnow/agentflow",
+      "stars": 63,
+      "full_text": "File-logged conversation protocol and on-demand development pipeline",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/agfnow/agentflow"
+    },
+    {
+      "name": "ashemag/model-x-studio",
+      "stars": 62,
+      "full_text": "Interactive Model X 3D studio with 334-piece exploration",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ashemag/model-x-studio"
+    }
+  ]
+}
