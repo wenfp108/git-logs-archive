@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-05T17:50:52.507Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 2,
+      "TALENT_GROWTH": 3,
+      "VIRAL_UNCATEGORIZED": 14,
+      "TECH_ACCELERATOR": 3,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "anthropics/fermats-last-theorem",
+      "stars": 514,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/anthropics/fermats-last-theorem"
+    },
+    {
+      "name": "KJGX66F/usque-custom-pro",
+      "stars": 241,
+      "full_text": "基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowrocket、sing-box、本地 VLESS 桥接，以及可选的 WARP 出口检测。",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/KJGX66F/usque-custom-pro"
+    },
+    {
+      "name": "bjarneo/omarchy-workspace-layout",
+      "stars": 112,
+      "full_text": "Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bjarneo/omarchy-workspace-layout"
+    },
+    {
+      "name": "hermansntsoo/arbitrage-bot",
+      "stars": 48,
+      "full_text": "",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/hermansntsoo/arbitrage-bot"
+    },
+    {
+      "name": "ShyVortex/dlss-unlocked",
+      "stars": 42,
+      "full_text": "Unlock DLSS Upscaler, DLSS-G Frame Generation and DLSS Neural Rendering features on any NVIDIA RTX GPU in any DirectX 12 game that supports DLSS2 and DLSS3 natively.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/ShyVortex/dlss-unlocked"
+    }
+  ]
+}
