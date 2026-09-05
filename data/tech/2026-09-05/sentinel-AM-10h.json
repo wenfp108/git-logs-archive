@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-05T10:33:26.227Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "VIRAL_UNCATEGORIZED": 8,
+      "TECH_ACCELERATOR": 1,
+      "TALENT_GROWTH": 1,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "anthropics/fermats-last-theorem",
+      "stars": 326,
+      "full_text": "",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/anthropics/fermats-last-theorem"
+    },
+    {
+      "name": "bjarneo/omarchy-workspace-layout",
+      "stars": 102,
+      "full_text": "Per-workspace tiling ratios for Hyprland, on Omarchy. Drag the dividers and your windows move — 25/50/25, master and stack, thirds, grid. Named layouts, per-workspace assignment, switchable profiles.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bjarneo/omarchy-workspace-layout"
+    }
+  ]
+}
