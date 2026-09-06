@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-06T10:30:09.117Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "VIRAL_UNCATEGORIZED": 19,
+      "TALENT_GROWTH": 1,
+      "TECH_ACCELERATOR": 1,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "ashemag/human-atlas",
+      "stars": 426,
+      "full_text": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ashemag/human-atlas"
+    },
+    {
+      "name": "vinzdg/codenotch",
+      "stars": 268,
+      "full_text": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/vinzdg/codenotch"
+    },
+    {
+      "name": "pierrenade/short-video-generator-AI",
+      "stars": 252,
+      "full_text": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/pierrenade/short-video-generator-AI"
+    },
+    {
+      "name": "l-hernandez-591/forza-horizon-6-unlock-all-garage-lab",
+      "stars": 47,
+      "full_text": "Forza Horizon 6 themed garage toolkit for car collection tracking, unlock planning, credits analytics, Wheelspin statistics, tuning and mod-menu-style UI experiments.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/l-hernandez-591/forza-horizon-6-unlock-all-garage-lab"
+    }
+  ]
+}
