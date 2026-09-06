@@ -1,0 +1,127 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-07T03:53:02.110Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 7,
+      "CODE_LEVERAGE": 1,
+      "VIRAL_UNCATEGORIZED": 29,
+      "TECH_ACCELERATOR": 2,
+      "TALENT_GROWTH": 5,
+      "KNOWLEDGE_BASE": 6,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "ashemag/human-atlas",
+      "stars": 1247,
+      "full_text": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/ashemag/human-atlas"
+    },
+    {
+      "name": "pierrenade/short-video-generator-AI",
+      "stars": 707,
+      "full_text": "Free open-source project designed for turning youtube-viedos into viral short videos. Highlight detection, subtitles, translation, voiceover, all in one for your content.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/pierrenade/short-video-generator-AI"
+    },
+    {
+      "name": "vinzdg/codenotch",
+      "stars": 638,
+      "full_text": "A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigravity to a screen edge.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/vinzdg/codenotch"
+    },
+    {
+      "name": "okf-memory/okf-agent-memory",
+      "stars": 321,
+      "full_text": "Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or dependencies. Built in pure Go.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/okf-memory/okf-agent-memory"
+    },
+    {
+      "name": "Appllama/liquid-glass-screens",
+      "stars": 248,
+      "full_text": "Explore liquid-glass welcome screens with floating stickers and interactive swipe animations.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Appllama/liquid-glass-screens"
+    },
+    {
+      "name": "evangelosvlachos96-dotcom/booking-microservices",
+      "stars": 240,
+      "full_text": "Flight booking system built as .NET 10 microservices with Vertical Slice Architecture, DDD, CQRS, Event Sourcing, gRPC, RabbitMQ, Wolverine, PostgreSQL, MongoDB and .NET Aspire.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/evangelosvlachos96-dotcom/booking-microservices"
+    },
+    {
+      "name": "biusberline/cloudflare-turnstile-solver",
+      "stars": 224,
+      "full_text": "A small Python library and CLI for working with Cloudflare Turnstile on your own pages - read the sitekey, build the token, verify the result.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/biusberline/cloudflare-turnstile-solver"
+    },
+    {
+      "name": "34306/vphone-web",
+      "stars": 216,
+      "full_text": "vphone-cli but you can use your mac as a host and control it over the web",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/34306/vphone-web"
+    },
+    {
+      "name": "evangelosvlachos96-dotcom/microservices-tracing-kafka-opentelemetry",
+      "stars": 99,
+      "full_text": "Distributed microservices architecture with OpenTelemetry tracing, Kafka messaging, and auto/manual instrumentation, visualized in Uptrace.",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/evangelosvlachos96-dotcom/microservices-tracing-kafka-opentelemetry"
+    },
+    {
+      "name": "v-modal/vmodal_sdk_robotics",
+      "stars": 78,
+      "full_text": "Robotics vision SDK",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/v-modal/vmodal_sdk_robotics"
+    },
+    {
+      "name": "freefrank/LostOdysseyRecomp",
+      "stars": 50,
+      "full_text": "Experimental native PC port of Lost Odyssey using static recompilation. No game assets included.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/freefrank/LostOdysseyRecomp"
+    }
+  ]
+}
