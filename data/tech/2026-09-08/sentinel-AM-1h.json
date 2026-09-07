@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-08T01:05:35.696Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "TALENT_GROWTH": 6,
+      "TECH_ACCELERATOR": 6,
+      "CODE_LEVERAGE": 3,
+      "VIRAL_UNCATEGORIZED": 15,
+      "KNOWLEDGE_BASE": 6
+    }
+  },
+  "items": [
+    {
+      "name": "EverettFish/holo-card-studio",
+      "stars": 736,
+      "full_text": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/EverettFish/holo-card-studio"
+    },
+    {
+      "name": "jtydhr88/screenwriting-skills",
+      "stars": 265,
+      "full_text": "",
+      "tags": [
+        "TALENT_GROWTH",
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/jtydhr88/screenwriting-skills"
+    },
+    {
+      "name": "biusberline/cloudflare-turnstile-solver",
+      "stars": 258,
+      "full_text": "A small Python library and CLI for working with Cloudflare Turnstile on your own pages - read the sitekey, build the token, verify the result.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/biusberline/cloudflare-turnstile-solver"
+    },
+    {
+      "name": "kunchenguid/kun",
+      "stars": 215,
+      "full_text": "Think and build like a principal engineer. Leverage Kun's experience, knowledge, tools, workflows, and skills to help you get shit done.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/kunchenguid/kun"
+    },
+    {
+      "name": "alchaincyf/huashu-mac-use",
+      "stars": 179,
+      "full_text": "让任何 agent 操控 Mac 上没有 API 的原生 app，读后台、写不打扰、每步留取证 · Agent Skill for macOS computer use",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/alchaincyf/huashu-mac-use"
+    },
+    {
+      "name": "v-modal/vmodal_sdk_robotics",
+      "stars": 79,
+      "full_text": "Robotics vision SDK",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/v-modal/vmodal_sdk_robotics"
+    },
+    {
+      "name": "OpenWAM-Official/OpenWAM",
+      "stars": 79,
+      "full_text": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/OpenWAM-Official/OpenWAM"
+    },
+    {
+      "name": "bsab/france-mcp-servers",
+      "stars": 79,
+      "full_text": "A curated catalog of Model Context Protocol servers for French data, laws, and services.",
+      "tags": [
+        "TECH_ACCELERATOR",
+        "KNOWLEDGE_BASE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/bsab/france-mcp-servers"
+    },
+    {
+      "name": "chadhurley25075-png/pd-bridge",
+      "stars": 73,
+      "full_text": "Heterogeneous prefill/decode for DeepSeek-V4-Flash: CUDA prefill (DGX Spark, vLLM) -> Metal decode (Mac Studio, oMLX) over plain 10GbE",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/chadhurley25075-png/pd-bridge"
+    },
+    {
+      "name": "Staatsgeheim/MathKernel",
+      "stars": 44,
+      "full_text": "Evidence-aware multi-engine mathematics runtime for LLMs: exact, symbolic, formal, certified-interval and numeric computation with typed MathIR, trust labels, and full provenance",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Staatsgeheim/MathKernel"
+    },
+    {
+      "name": "jangtrinh/design-os-3d-blender",
+      "stars": 43,
+      "full_text": "AI-agent operating system for Blender 5.2: skills, verified bpy knowledge base, AGENT_OK/AGENT_FAIL execution contract, production gate for 3D-printable parts, robot-arm demo",
+      "tags": [
+        "CODE_LEVERAGE",
+        "TALENT_GROWTH"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/jangtrinh/design-os-3d-blender"
+    }
+  ]
+}
