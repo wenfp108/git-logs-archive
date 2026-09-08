@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-08T10:40:28.032Z",
+    "session": "AM",
+    "trend_summary": {
+      "VIRAL_GIANT": 1,
+      "CODE_LEVERAGE": 2,
+      "VIRAL_UNCATEGORIZED": 13,
+      "TALENT_GROWTH": 2,
+      "KNOWLEDGE_BASE": 1
+    }
+  },
+  "items": [
+    {
+      "name": "EverettFish/holo-card-studio",
+      "stars": 878,
+      "full_text": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/EverettFish/holo-card-studio"
+    },
+    {
+      "name": "achimala/dream-loop",
+      "stars": 200,
+      "full_text": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/achimala/dream-loop"
+    },
+    {
+      "name": "artem-wrighthq1994g4/photoshop-image-helper-2026",
+      "stars": 48,
+      "full_text": "A lightweight Python utility for automating legacy image processing workflows in desktop environments. It provides robust batch processing for raster files, allowing developers to integrate custom filters into existing pipelines without manual intervention. This module simplifies the execution of complex color space conversions and file f",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/artem-wrighthq1994g4/photoshop-image-helper-2026"
+    }
+  ]
+}
