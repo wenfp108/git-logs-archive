@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "scanned_at_bj": "2026-09-08T23:51:05.699Z",
+    "session": "PM",
+    "trend_summary": {
+      "VIRAL_GIANT": 3,
+      "CODE_LEVERAGE": 4,
+      "TALENT_GROWTH": 3,
+      "VIRAL_UNCATEGORIZED": 28,
+      "KNOWLEDGE_BASE": 2,
+      "TECH_ACCELERATOR": 1,
+      "CORE_PRAGMATISM": 1
+    }
+  },
+  "items": [
+    {
+      "name": "EverettFish/holo-card-studio",
+      "stars": 1100,
+      "full_text": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/EverettFish/holo-card-studio"
+    },
+    {
+      "name": "achimala/dream-loop",
+      "stars": 348,
+      "full_text": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/achimala/dream-loop"
+    },
+    {
+      "name": "Sophomoresty/turnstile-bypass",
+      "stars": 287,
+      "full_text": "Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux)",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/Sophomoresty/turnstile-bypass"
+    },
+    {
+      "name": "lfzk550/fanzha-ai-proxy",
+      "stars": 264,
+      "full_text": "国家反诈AI API 转 OpenAI 兼容格式反向代理服务 || 仅学习用途",
+      "tags": [
+        "VIRAL_GIANT"
+      ],
+      "reason": "FORCE_KEEP",
+      "url": "https://github.com/lfzk550/fanzha-ai-proxy"
+    },
+    {
+      "name": "LerSent001/holo-card",
+      "stars": 157,
+      "full_text": "A Codex skill for layered holographic cards with parallax, contour glow, and an optional API workflow",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/LerSent001/holo-card"
+    },
+    {
+      "name": "Vheissu/hit-and-run-web",
+      "stars": 91,
+      "full_text": "Playable browser reconstruction of The Simpsons: Hit & Run with converted assets and Blender remaster tools.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/Vheissu/hit-and-run-web"
+    },
+    {
+      "name": "daishuge/pcb-skill",
+      "stars": 64,
+      "full_text": "Agent skill for taking a hardware idea to a manufacturable PCB: concept, schematic, sourcing, layout, routing, verification, and a purchase staged to the pre-payment page. Drives EasyEDA Pro over MCP from Claude Code or Codex.",
+      "tags": [
+        "CODE_LEVERAGE"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/daishuge/pcb-skill"
+    },
+    {
+      "name": "yjh051108/dsh-agi-harness",
+      "stars": 50,
+      "full_text": "AGI harness: 责任闭环、信誉、学习的外部化（DSH 插件组合）",
+      "tags": [
+        "TECH_ACCELERATOR"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/yjh051108/dsh-agi-harness"
+    },
+    {
+      "name": "coccofresco/TriAevum",
+      "stars": 47,
+      "full_text": "Experimental native PC recompilation runtime for Ocarina of Time 3D. Windows x64, NRI/Vulkan, single-screen UI and ROM-only setup.",
+      "tags": [
+        "CORE_PRAGMATISM"
+      ],
+      "reason": "STRATEGY",
+      "url": "https://github.com/coccofresco/TriAevum"
+    }
+  ]
+}
